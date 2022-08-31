@@ -1,4 +1,4 @@
-# SC-300T00 Microsoft Identity and Access Administrator - All Modules Errata
+# SC-300T00 Microsoft Identity and Access Administrator - Module 3 Errata
 
 # NOTE:  At the end of each module of labs, delete all the resources created in the module
 
