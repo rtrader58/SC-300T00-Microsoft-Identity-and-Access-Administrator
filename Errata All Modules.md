@@ -5,30 +5,30 @@
 # Implement an identity management solution (~190 Minutes)
 
 ## Lab 0 - Create a Microsoft Azure Pass Subscription (10 Minutes)
-Step 2:  Activate your subscription
-Leave Name and email as is, enter your information in the remaining fields – must include a valid phone number
+Step 2:  Activate your subscription<br>
+Leave Name and email as is, enter your information in the remaining fields – must include a valid phone number<br>
 
-Read this at the very end of Lab 0: 
+# Disregarrd - Read this at the very end of Lab 0:<br> 
 
-## Important note: a later lab requires a time-consuming deployment. To save your time later, we suggest that you kick off that portion of the lab now so it’s ready when you get there. To do that:
+# Disregarrd - Lab 07 has been removed from the environment. - Go straight to Lab 01<br>
 
-## After completing Lab 0 use the next button to skip to Lab 07.  Complete Lab 07 Exercise 1 Task 1 - Once the deployment has started use the previous button to return to Lab 01 Continue with Lab 01, and Lab 07 should be ready when you get there
+I am leaving these instructions in the errata for when lab 07 is returned. - Important note: a later lab requires a time-consuming deployment. To save your time later, we suggest that you kick off that portion of the lab now so it’s ready when you get there. To do that:<br>
 
+After completing Lab 0 use the next button to skip to Lab 07.  Complete Lab 07 Exercise 1 Task 1 - Once the deployment has started use the previous button to return to Lab 01 Continue with Lab 01, and Lab 07 should be ready when you get there<br>
+
+## Lab 01 – Manage user roles (30 Minutes)<br>
 <br>
 
-## Lab 01 – Manage user roles (30 Minutes)
-<br>
-
-### Exercise 1 – Create a new user and test their application admin rights
+### Exercise 1 – Create a new user and test their application admin rights<br>
 
 <br>
 
 Task 1:  Add a new user<br>
-Step 6:  Use the following password
-	Pass@word!
+Step 6:  Use the following password<br>
+	Pass@word!<br>
 
 Task 2: Bulk addition of users using PowerShell<br>
-Step 2: After running Install-Module AzureAD run Import-Module AzureAD to import the module prior to use
+Step 2: After running Install-Module AzureAD run Import-Module AzureAD to import the module prior to use<br>
 
 <br>
 
@@ -38,32 +38,32 @@ Step 2: After running Install-Module AzureAD run Import-Module AzureAD to import
 
 Task 1 - Bulk operations for creating users with a .csv file<br>
 Step 6:  After opening the .csv file paste your tenant name from the resources tab in the lab guide at the bottom of the file
-Use the replace feature in Notepad to replace <<<enter your domain name>>>
-After pasting delete your tenant name you pasted at the bottom of the file 
+Use the replace feature in Notepad to replace <<<enter your domain name>>><br>
+After pasting delete your tenant name you pasted at the bottom of the file <br>
 
-Task 2:  Bulk addition of users using PowerShell
+Task 2:  Bulk addition of users using PowerShell<br>
 
-Step 7:  Copy and paste your tenant name from the Azure Portal notepad
-Paste the New-Aduser cmdlet into notepad
-Replace the labtenname.com with your tenant name
-Copy and paste cmdlet into PowerShell
-
-<br>
-
-### Exercise 6 - Add a Windows 10 license to a user account
+Step 7:  Copy and paste your tenant name from the Azure Portal notepad<br>
+Paste the New-Aduser cmdlet into notepad<br>
+Replace the labtenname.com with your tenant name<br>
+Copy and paste cmdlet into PowerShell<br>
 
 <br>
 
-Task 1 - Find your unlicensed user in Azure Active Directory
-Step 5:  Click edit properties > Settings tab to verify Usage location
+### Exercise 6 - Add a Windows 10 license to a user account<br>
 
 <br>
 
-## Lab 02 – Working with tenant properties (15 Minutes)
+Task 1 - Find your unlicensed user in Azure Active Directory<br>
+Step 5:  Click edit properties > Settings tab to verify Usage location<br>
 
 <br>
 
-### Exercise 3 - Setting your privacy information
+## Lab 02 – Working with tenant properties (15 Minutes)<br>
+
+<br>
+
+### Exercise 3 - Setting your privacy information<br>
 
 <br>
 
@@ -129,8 +129,8 @@ PowerShell was installed in a previous lab you may be able to start at step 4<br
 
 Task 1- Configure Google to be used as an identity provider<br>
 Note:  Create a Gmail account for use in this lab, I recommend something like this<br>
-	Initialssc300@gmail.com (FFsc300@gmail.com)<br>
-	If the account is taken use a recommended one – Note your username and password<br>
+Initialssc300@gmail.com (FFsc300@gmail.com)<br>
+If the account is taken use a recommended one – Note your username and password<br>
 
 Step 1:  Does not paste – type in manually<br>
 Step 5:  In the Application type menu, select Web application. Give the application a suitable name, like Azure AD B2B. Under Authorized redirect URIs, add the following URIs:<br>
@@ -148,11 +148,11 @@ Copy the client ID and Secret and paste in notepad<br>
 <br>
 Task 1 – Create the on-premises Active Directory infrastructure<br>
 Step 1:  The link may not paste in the lab environment, if not enter the following in Edge<br>
-	https://github.com/maxskunkworks/TLG/tree/master/tlg-base-config_3-vm<br>
+https://github.com/maxskunkworks/TLG/tree/master/tlg-base-config_3-vm<br>
 Step3:  when deplying the VM choose size  Standard_D2s_v2<br>
 
-<br>Note the DNS label prefix you use – I used retSC300
-<br>Note:  If you jumped here after completing Lab 0, do not wait for the deployment to finish, press Previous to return to Lab 1<br>
+Note the DNS label prefix you use – I used retSC300<br>
+Note:  If you jumped here after completing Lab 0, do not wait for the deployment to finish, press Previous to return to Lab 1<br>
 
 Task 2 - Configure the lab environment Azure VMs<br>
 Step 1:  Password is incorrect use   demo@pass123<br>
@@ -171,8 +171,8 @@ Browse to c:downloads\MCW-hybrid-identity-main\ MCW-hybrid-identity-main\Hands-o
 Skip to Step 5<br>
 Step 8:  After running the script open Active Directory Users and Computers to verify the Demo Accounts OU has been created and populated with users and groups.<br>
 
-	Note:  when the script is running you may see red flashing by, ignore
-	Do not run the script a second time, it will delete the Demo Accounts OU<br>
+Note:  when the script is running you may see red flashing by, ignore<br>
+Do not run the script a second time, it will delete the Demo Accounts OU<br>
 Step 9:  Paste into another tab in the ISE before running<br>
 Step 10:  Paste into another tab in the ISE before running<br>
 
@@ -185,7 +185,7 @@ Step 10:  Paste into another tab in the ISE before running<br>
 Task 1: Create an Azure Active Directory tenant and activate an EMS E5 trial<br>
 Step 6:  recommend initials then Contoso when creating the initial domain name<br>
 
-	Note:  do not close the Captia once it says Tenant Creation in Progress<br>
+Note:  do not close the Captia once it says Tenant Creation in Progress<br>
 Step 7:  Select navigate to tenant when successful<br>
 Skip to Step 11<br>
 
