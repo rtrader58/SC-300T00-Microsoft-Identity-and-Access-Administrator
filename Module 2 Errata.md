@@ -139,6 +139,8 @@ Copy the client ID and Secret and paste in notepad<br>
 
 <br>
 
+# Disregarrd - Lab 07 has been removed from the environment.
+
 ## Lab 07 – Add Hybrid Identity with Azure AD Connect (75 Minutes)
 
 <br>
