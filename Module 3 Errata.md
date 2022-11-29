@@ -49,6 +49,9 @@ Image:  Windows Server 2019 Datacenter – Gen 1<br>
 Username:  demouser<br>
 Password:  demo@pass123<br>
 
+On the Management tab, check the box to Login with Azure AD under the Azure AD section.<br>
+Make sure System assigned managed identity under the Identity section is checked. This action should happen automatically once you enable Login with Azure AD.<br>
+
 Task 2 - Azure AD login for existing Azure Virtual Machines<br>
 Step 4:  Choose your Global Admin as a member<br>
 
@@ -66,6 +69,9 @@ Availability options:  No infrastructure redundancy required<br>
 Authentication type:  Password<br>
 Username:  demouser<br>
 Password:  demo@pass123<br>
+
+On the Management tab, check the box to Login with Azure AD under the Azure AD section.<br>
+Make sure System assigned managed identity under the Identity section is checked. This action should happen automatically once you enable Login with Azure AD.<br>
 
 Task 2 - Azure AD login for existing Azure Virtual Machines<br>
 Step 4:  Choose your Global Admin as a member<br>
@@ -113,10 +119,19 @@ Step 4:  Choose your Global Admin as a member<br>
 ## Lab 16 – Using Azure Key Vault for Managed Identities (20 Minutes)
 
 <br>
-
 ### Exercise 1 - Use Azure Key Vault to manage Virtual Machine identities
-
 <br>
+Task 1 - Create a Windows Virtual Machine with Azure AD login enabled<br>
+Use the following setting on the Basic tab<br>
+Resource group;  myDemoRG<br>
+Virtual machine name:  myVM3<br>
+Availability options:  No infrastructure redundancy required<br>
+Image:  Windows Server 2019 Datacenter – Gen 1<br>
+Username:  demouser<br>
+Password:  demo@pass123<br>
+
+On the Management tab, check the box to Login with Azure AD under the Azure AD section.<br>
+Make sure System assigned managed identity under the Identity section is checked. This action should happen automatically once you enable Login with Azure AD.<br>
 
 Task 2 - Create a Key Vault<br>
 Step 6:  May need to add your initials to the Key vault name<br>
