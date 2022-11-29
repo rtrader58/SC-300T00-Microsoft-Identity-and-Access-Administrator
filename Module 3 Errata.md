@@ -119,7 +119,9 @@ Step 4:  Choose your Global Admin as a member<br>
 ## Lab 16 – Using Azure Key Vault for Managed Identities (20 Minutes)
 
 <br>
+
 ### Exercise 1 - Use Azure Key Vault to manage Virtual Machine identities
+
 <br>
 Task 1 - Create a Windows Virtual Machine with Azure AD login enabled<br>
 Use the following setting on the Basic tab<br>
