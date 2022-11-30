@@ -22,8 +22,8 @@
 
 <br>
 
-Task 1 - Add terms of use
-Step 9:  Browse to the following location, and download the file
+Task 1 - Add terms of use<br>
+Step 9:  Browse to the following location, and download the file<br>
 https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/blob/master/Allfiles/Labs/Lab26/Contoso_TermsOfUse.pdf
 
 <br>
@@ -40,9 +40,10 @@ https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/bl
 
 <br>
 
+### Lab is an explore lab
+
 ### No Errata
 
-### Lab is an explore lab, 
 
 <br>
 
