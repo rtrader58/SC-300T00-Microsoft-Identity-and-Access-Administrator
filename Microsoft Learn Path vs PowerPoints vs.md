@@ -19,7 +19,7 @@ Lab 03: Assigning licenses using group membership (25 Minutes)
 Lab 04: Configure external collaboration settings (5 Minutes)
 Lab 05 -Add guest users to the directory (5 Minutes)
 Lab 06 – Add a federated identity provider (25 Minutes)
-Lab 07 – Add Hybrid Identity with Azure AD Connect (75 Minutes) - Disreguard has been removed from the environment.
+Lab 07 – Add Hybrid Identity with Azure AD Connect (75 Minutes) - Optional Lab.
 
 ## Learning Path 3: Implement an Authentication and Access Management solution - https://learn.microsoft.com/en-us/training/paths/implement-authentication-access-management-solution/
 
