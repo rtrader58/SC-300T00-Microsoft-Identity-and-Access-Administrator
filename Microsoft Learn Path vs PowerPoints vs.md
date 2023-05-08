@@ -31,15 +31,15 @@ Implement access management for Azure resources - https://learn.microsoft.com/en
 
 ### Labs - Implement an authentication and access management solution (~150 Miuntes)
 
-Lab 08 – enable Azure AD multifactor authentication (15 Minutes)
-Lab 09 – Configure and deploy self-service password reset (15 Minutes)
-Lab 10 – Azure AD Authentication for Windows and Linux Virtual Machines (30 Minutes)
-Lab 11 - Assign Azure resource roles in Privileged Identity Management (10 Minutes)
-Lab 12 – Manage Azure AD smart lockout values (5 Minutes)
-Lab 13 – Implement and test a conditional access policy (30 Minutes)
-Lab 14 – Enable sign in and user risk policies (10 Minutes)
-Lab 15 – Configure an Azure AD multi-factor authentication registration policy (10 Minutes)
-Lab 16 – Using Azure Key Vault for Managed Identities (20 Minutes)
+Lab 08 – enable Azure AD multifactor authentication (15 Minutes)<br>
+Lab 09 – Configure and deploy self-service password reset (15 Minutes)<br>
+Lab 10 – Azure AD Authentication for Windows and Linux Virtual Machines (30 Minutes)<br>
+Lab 11 - Assign Azure resource roles in Privileged Identity Management (10 Minutes)<br>
+Lab 12 – Manage Azure AD smart lockout values (5 Minutes)<br>
+Lab 13 – Implement and test a conditional access policy (30 Minutes)<br>
+Lab 14 – Enable sign in and user risk policies (10 Minutes)<br>
+Lab 15 – Configure an Azure AD multi-factor authentication registration policy (10 Minutes)<br>
+Lab 16 – Using Azure Key Vault for Managed Identities (20 Minutes)<br>
 
 ## Learning Path 4: Implement Access Management for Apps - https://learn.microsoft.com/en-us/training/paths/implement-access-management-for-apps/
 
@@ -49,11 +49,11 @@ Implement app registration - https://learn.microsoft.com/en-us/training/modules/
 
 ### Labs - Implementing access management for apps (~90 Minutes)
 
-Lab 17 – Defender for Cloud Apps application discovery and enforcing restrictions (10 Minutes)
-Lab 18 – Defender for Cloud Apps Access and Session Policies (20 Minutes)
-Lab 19 – Register an application (30 Minutes)
-Lab 20 – Implement access management for apps (5 Minutes)
-Lab 21 – Grant tenant-wide admin consent to an application (15 Minutes)
+Lab 17 – Defender for Cloud Apps application discovery and enforcing restrictions (10 Minutes)<br>
+Lab 18 – Defender for Cloud Apps Access and Session Policies (20 Minutes)<br>
+Lab 19 – Register an application (30 Minutes)<br>
+Lab 20 – Implement access management for apps (5 Minutes)<br>
+Lab 21 – Grant tenant-wide admin consent to an application (15 Minutes)<br>
 
 ## Learning Path 5: Plan and Implement an Identity Governance - https://learn.microsoft.com/en-us/training/paths/plan-implement-identity-governance-strategy/
 
@@ -64,13 +64,13 @@ Monitor and maintain Azure AD - https://learn.microsoft.com/en-us/training/modul
 
 ### Labs - Plan and implement an identity governance strategy (~130 Minutes)
 
-Lab 22 – Create and manage a catalog of resources in Azure AD entitlement management (15 Minutes)
-Lab 23 – Add terms of use and acceptance reporting (20 Minutes)
-Lab 24 – Manage the lifecycle of external users in Azure AD identity Governance settings (5 Minutes)
-Lab 25 – Create Access Reviews for Internal and External Users (5 Minutes)
-Lab 26 – Configure Privileged Identity management for Azure AZ Roles (30 Minutes)
-Lab 27 – Microsoft Sentinel Kusto Queries for Azure data sources (30 Minutes)
-Lab 28 – Monitor and manage security posture with Identity Secure Score (15 Minutes)
+Lab 22 – Create and manage a catalog of resources in Azure AD entitlement management (15 Minutes)<br>
+Lab 23 – Add terms of use and acceptance reporting (20 Minutes)<br>
+Lab 24 – Manage the lifecycle of external users in Azure AD identity Governance settings (5 Minutes)<br>
+Lab 25 – Create Access Reviews for Internal and External Users (5 Minutes)<br>
+Lab 26 – Configure Privileged Identity management for Azure AZ Roles (30 Minutes)<br>
+Lab 27 – Microsoft Sentinel Kusto Queries for Azure data sources (30 Minutes)<br>
+Lab 28 – Monitor and manage security posture with Identity Secure Score (15 Minutes)<br>
 
 ### Who Hacked Cloud Game - https://learn.microsoft.com/en-us/training/modules/sc-200-who-hacked-cloud-game/
 
