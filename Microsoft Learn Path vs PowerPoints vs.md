@@ -15,9 +15,9 @@ Implement and manage hybrid identities - https://learn.microsoft.com/en-us/train
 
 Lab 01 – Manage user roles (30 Minutes) <br>
 Lab 02 – Working with tenant properties (15 Minutes)<br>
-Lab 03: Assigning licenses using group membership (25 Minutes)<br>
-Lab 04: Configure external collaboration settings (5 Minutes)<br>
-Lab 05 -Add guest users to the directory (5 Minutes)<br>
+Lab 03 – Assigning licenses using group membership (25 Minutes)<br>
+Lab 04 – Configure external collaboration settings (5 Minutes)<br>
+Lab 05 – Add guest users to the directory (5 Minutes)<br>
 Lab 06 – Add a federated identity provider (25 Minutes)<br>
 Lab 07 – Add Hybrid Identity with Azure AD Connect (75 Minutes) - Optional Lab.<br>
 
