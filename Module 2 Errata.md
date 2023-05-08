@@ -9,13 +9,12 @@
 Step 2:  Activate your subscription<br>
 Leave Name and email as is, enter your information in the remaining fields – must include a valid phone number and address<br>
 
-# Disregarrd - Read this at the very end of Lab 0:
+# Optional - Lab 07 
 
-# Disregarrd - Lab 07 has been removed from the environment. - Go straight to Lab 01
-
+Has returned but as an optional Lab If you intend on doing lab continue with these instructions otherwise start lab 01 <br>
 Important note: a later lab requires a time-consuming deployment. To save your time later, we suggest that you kick off that portion of the lab now so it’s ready when you get there. To do that:<br>
 
-After completing Lab 0 use the next button to skip to Lab 07.  Complete Lab 07 Exercise 1 Task 1 - Once the deployment has started use the previous button to return to Lab 01 Continue with Lab 01, and Lab 07 should be ready when you get there<br>
+Before starting Lab 01 use the next button to skip to Lab 07.  Complete Lab 07 Exercise 1 Task 1 - Once the deployment has started use the previous button to return to Lab 01 Continue with Lab 01, and Lab 07 should be ready when you get there<br>
 
 ## Lab 01 – Manage user roles (30 Minutes)
 
@@ -26,7 +25,7 @@ Step 6:  Use the following password<br>
 Pass@word!<br>
 
 Task 2: Bulk addition of users using PowerShell<br>
-Step 2: After running Install-Module AzureAD run Import-Module AzureAD to import the module prior to use<br><br>
+Step 2: After running Install-Module AzureAD run Import-Module AzureAD to import the module prior to use<br>
 
 ### Exercise 4 - Bulk import of users
 
