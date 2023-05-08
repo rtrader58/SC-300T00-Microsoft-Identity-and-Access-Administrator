@@ -8,8 +8,6 @@
 Step 2:  Activate your subscription<br>
 Leave Name and email as is, enter your information in the remaining fields – must include a valid phone number<br>
 
-# Disregarrd - Read this at the very end of Lab 0:
-
 # Optional - Lab 07 
 
 Has returned but as an optional Lab If you intend on doing lab continue with these instructions otherwise start with lab 01 <br>
