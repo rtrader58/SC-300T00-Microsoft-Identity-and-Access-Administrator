@@ -4,14 +4,14 @@
 
 # Implement an identity management solution (~190 Minutes)
 
-## Lab 0 - Create a Microsoft Azure Pass Subscription (10 Minutes)
+## Lab 0 - Create a Microsoft Azure Pass Subscription (10 Minutes) Already completed during class introduction
 
 Step 2:  Activate your subscription<br>
 Leave Name and email as is, enter your information in the remaining fields – must include a valid phone number and address<br>
 
 # Optional - Lab 07 
 
-Has returned but as an optional Lab If you intend on doing lab continue with these instructions otherwise start lab 01 <br>
+Has returned but as an optional Lab If you intend on doing lab continue with these instructions otherwise start with lab 01 <br>
 Important note: a later lab requires a time-consuming deployment. To save your time later, we suggest that you kick off that portion of the lab now so it’s ready when you get there. To do that:<br>
 
 Before starting Lab 01 use the next button to skip to Lab 07.  Complete Lab 07 Exercise 1 Task 1 - Once the deployment has started use the previous button to return to Lab 01 Continue with Lab 01, and Lab 07 should be ready when you get there<br>
