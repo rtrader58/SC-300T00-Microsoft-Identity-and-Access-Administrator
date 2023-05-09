@@ -191,6 +191,10 @@ Make sure System assigned managed identity under the Identity section is checked
 Task 2 - Azure AD login for existing Azure Virtual Machines<br>
 Step 4:  Choose your Global Admin as a member<br>
 
+Task 5 - Connect to the Windows Server 2022 Datacenter using Azure AD login
+Step 7:  Username :  AzureAD\jonis@yourazuretenantname
+
+
 ### Exercise 2 - Login to Linux Virtual Machines in Azure with Azure AD
 <br>
 Task 1 - Create a Linux VM with system assigned managed identity<br>
