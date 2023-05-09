@@ -2,7 +2,7 @@
 
 # NOTE:  At the end of each module of labs, delete all the resources created in the module
 
-## Implement an authentication and access management solution (~150 Miuntes)
+## Implement an authentication and access management solution (~150 Minutes)
 
 ## Lab 08 – enable Azure AD multifactor authentication (15 Minutes)
 
