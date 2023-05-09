@@ -192,7 +192,7 @@ Task 2 - Azure AD login for existing Azure Virtual Machines<br>
 Step 4:  Choose your Global Admin as a member<br>
 
 Task 5 - Connect to the Windows Server 2022 Datacenter using Azure AD login <br>
-Step 7:  Username :  AzureAD\jonis@yourazuretenantname <br>
+Step 7:  Username:  AzureAD\jonis@yourazuretenantname <br>
 
 
 ### Exercise 2 - Login to Linux Virtual Machines in Azure with Azure AD
