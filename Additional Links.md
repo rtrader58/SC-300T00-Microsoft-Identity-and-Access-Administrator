@@ -58,7 +58,7 @@ Authentication methods in Azure Active Directory - OATH tokens - https://docs.mi
 Configure and enable users for SMS-based authentication using Azure Active Directory - https://docs.microsoft.com/azure/active-directory/authentication/howto-authentication-sms-signin  <br>
 Authentication methods in Azure Active Directory - phone options - https://docs.microsoft.com/azure/active-directory/authentication/concept-authentication-phone-options  <br>
 Enforce on-premises Azure AD Password Protection for Active Directory Domain Services - https://docs.microsoft.com/azure/active-directory/authentication/concept-password-ban-bad-on-premises  <br>
-Enable on-premises Azure Active Directory Password Protection - https://docs.microsoft.com/azure/active-directory/authentication/howto-password-ban-bad-on-premises-operations
+Enable on-premises Azure Active Directory Password Protection - https://docs.microsoft.com/azure/active-directory/authentication/howto-password-ban-bad-on-premises-operations <br>
 Step-By-Step: Implementing Azure AD Password Protection On-Premises - https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-implementing-azure-ad-password-protection-on/ba-p/563342  <br>
 Setting up Conditional Access - https://docs.microsoft.com/azure/active-directory/conditional-access/overview  <br>
 Conditional Access Templates - https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/howto-conditional-access-policy-block-legacy   <br>
