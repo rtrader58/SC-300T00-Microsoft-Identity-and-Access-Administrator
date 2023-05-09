@@ -10,7 +10,8 @@
 
 ### Exercise 1 - Review and enable Multi-factor Authentication in Azure
 
-### No Errata
+Task 2 - Setup conditional access rules for MFA for Delia Dennis
+Step 9:  Typo - should read as Ensure that Require all the selected controls is selected
 
 ## Lab 09 – Configure and deploy self-service password reset (15 Minutes)
 
