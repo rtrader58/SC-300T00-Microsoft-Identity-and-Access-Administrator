@@ -1,4 +1,4 @@
-# PowerPoint (PPT) Modulevs Microsoft Learn Path vs MS Learn Links
+# PowerPoint (PPT) Module vs Microsoft Learn Path vs MS Learn Links
 
 ## PPT Module 1 - Learning Path: Explore identity and Azure AD (Optional Module) - https://learn.microsoft.com/en-us/training/modules/explore-identity-azure-active-directory/
 
