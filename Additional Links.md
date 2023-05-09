@@ -42,7 +42,7 @@ Implement and manage hybrid identity - https://docs.microsoft.com/learn/modules/
 
 Deployment considerations for Azure AD Multi-Factor Authentication | Microsoft Docs - https://www.microsoft.com/en-us/download/details.aspx?id=57600  <br>
 Monitor Azure AD MFA activity - https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-reporting  <br>
-Planning a cloud-based Azure AD multifactor Authentication deployment - https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted <br> <br>
+Planning a cloud-based Azure AD multifactor Authentication deployment - https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted <br>
 Deploy Azure AD self-service password reset - https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-deployment <br>
 Describe how to disable accounts and revoke user sessions - https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/users-revoke-access  <br>
 Disable accounts: On-premises and Azure AD users - https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/users-revoke-access  <br>
@@ -85,6 +85,23 @@ Assign a managed identity access to a resource using the Azure portal - Azure AD
 Understand Azure role definitions - Azure RBAC | Microsoft Docs - https://learn.microsoft.com/en-us/azure/role-based-access-control/role-definitions  <br>
 Grant permission to applications to access an Azure key vault using Azure RBAC | Microsoft Docs - https://learn.microsoft.com/en-us/azure/key-vault/general/rbac-guide?tabs=azure-cli  <br>
 Create and access a secret in Azure Key Vault - https://learn.microsoft.com/en-us/azure/key-vault/secrets/quick-create-portal  <br>
+
+### Module 4:  Implement Access Management for Apps
+
+MDCA ebook - https://go.microsoft.com/fwlink/p/?LinkID=2079728&clcid=0x409&culture=en-us&country=US   <br>
+Microsoft Defender for Cloud Apps - https://docs.microsoft.com/en-us/cloud-app-security/what-is-cloud-app-security  <br>
+What is an app connector in Defender for Cloud Apps? - https://docs.microsoft.com/en-us/defender-cloud-apps/enable-instant-visibility-protection-and-governance-actions-for-your-apps  <br>
+Create and manage application collections - https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/access-panel-collections  <br>
+
+### Module 5:  Plan and Implement an Identity Governance Strategy
+
+Frequently Asked Questions - https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/terms-of-use#frequently-asked-questions   <br>
+Add a connected organization in Azure AD entitlement management - Azure Active Directory - Microsoft Entra | Microsoft Docs - https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-organization  <br>
+
+
+
+
+
 
 
 
