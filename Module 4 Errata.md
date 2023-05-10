@@ -2,7 +2,7 @@
 
 # NOTE:  At the end of each module of labs, delete all the resources created in the module
 
-# Implementing access management for apps (~90 Minutes)
+# Implementing access management for apps (~90 Minutes)(Actual time ~120 Minutes)
 
 ## Lab 17 – Defender for Cloud Apps application discovery and enforcing restrictions (10 Minutes)
 
@@ -33,6 +33,6 @@ Step 7:  Populate the fields with the example content<br>
 
 ### Exercise 1 - Admin Consent
 
-Task 1 - Grant admin consent in App registrations (Skip task, option has been removed<br>
+Task 1 - Grant admin consent in App registrations (Skip task, option has been removed) <br>
 
 # NOTE:  At the end of module, remove any policies or security settings.  Delete all the resources created in the module
