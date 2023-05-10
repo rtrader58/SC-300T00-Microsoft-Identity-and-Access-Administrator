@@ -16,12 +16,12 @@ Step 1:  Link does not paste correctly in the lab environment, open a new tab in
 ### Exercise 2 - Setup alerts in Microsoft Defender for Cloud Apps
 
 Task 1 - Access Microsoft Defender for Cloud Apps and create Conditional Access App Control<br>
-Step 3:  If needed expand Cloud Apps in he navigation pane.
-Step 4:  Expand Policies 
-Step 4:  Select Policy Management
+Step 3:  If needed expand Cloud Apps in he navigation pane<br>
+Step 4:  Expand Policies <br>
+Step 4:  Select Policy Management<br>
 
-Task 3 - Review the Activity in Defender for Cloud Apps
-Step 3:  Select ActivityLog
+Task 3 - Review the Activity in Defender for Cloud Apps<br>
+Step 3:  Select Activity Log<br>
 
 ## Lab 19 – Register an application (30 Minutes)
 
