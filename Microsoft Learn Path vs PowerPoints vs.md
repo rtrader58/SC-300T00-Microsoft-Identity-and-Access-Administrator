@@ -1,5 +1,7 @@
 # Microsoft Learn Path vs PowerPoint Module vs MS Learn Links
 
+# SC-300: Implement an identity management solution - https://learn.microsoft.com/en-us/training/paths/implement-identity-management-solution/
+
 ## PowerPoint Module 1: Explore identity and Azure AD (Optional Module) - https://learn.microsoft.com/en-us/training/modules/explore-identity-azure-active-directory/
 
 Explore identity and Azure AD <br>
