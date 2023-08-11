@@ -1,8 +1,8 @@
-# SC-300T00 Microsoft Identity and Access Administrator - Modules 2 Errata
+# SC-300T00 Microsoft Identity and Access Administrator - Learning Path 1 (Module 2) Errata
 
 # NOTE:  At the end of each module of labs, delete all the resources created in the module
 
-# Implement an identity management solution (~190 Minutes)
+# Learning Path 1 (Module 2): Implement an identity management solution (~190 Minutes)
 
 ## Lab 0 - Create a Microsoft Azure Pass Subscription (10 Minutes) Already completed during class introduction
 

@@ -1,6 +1,6 @@
-# SC-300T00 Microsoft Identity and Access Administrator - Module 5 Errata
+# SC-300T00 Microsoft Identity and Access Administrator - Learning Path 4 (Module 5) Errata
 
-# Plan and implement an identity governance strategy (~130 Minutes)
+# Learning Path 4 (Module 5): Plan and implement an identity governance strategy (~130 Minutes)
 
 ## Lab 22 – Create and manage a catalog of resources in Azure AD entitlement management (15 Minutes)
 

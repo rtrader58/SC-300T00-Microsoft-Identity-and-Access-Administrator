@@ -1,8 +1,8 @@
-# SC-300T00 Microsoft Identity and Access Administrator - Module 4 Errata
+# SC-300T00 Microsoft Identity and Access Administrator - Learning Path 3 (Module 4) Errata
 
 # NOTE:  At the end of each module of labs, delete all the resources created in the module
 
-# Implementing access management for apps (~90 Minutes)(Actual time ~120 Minutes)
+# Learning Path 3 (Module 4): Implementing access management for apps (~90 Minutes)(Actual time ~120 Minutes)
 
 ## Lab 17 – Defender for Cloud Apps application discovery and enforcing restrictions (10 Minutes)
 

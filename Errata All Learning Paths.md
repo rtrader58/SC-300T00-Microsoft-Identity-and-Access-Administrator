@@ -2,7 +2,7 @@
 
 # NOTE:  At the end of each module of labs, delete all the resources created in the module
 
-# Implement an identity management solution (~190 Minutes)
+# Learning Path 1: Implement an identity management solution (~190 Minutes)
 
 ## Lab 0 - Create a Microsoft Azure Pass Subscription (10 Minutes) Already completed during class introduction
 Step 2:  Activate your subscription<br>
@@ -154,7 +154,7 @@ Step 3;  Login as  corp\AGAyers<br>
 
 # NOTE:  At the end of module, delete all the resources created in the module
  
-# Implement an authentication and access management solution (~150 Miuntes)
+# Learning Path 2: Implement an authentication and access management solution (~150 Miuntes)
 
 ## Lab 08 – enable Azure AD multifactor authentication (15 Minutes)
 
@@ -255,7 +255,7 @@ Step 2: returns unable to resolve the name.  Open a PowerShell Prompt.  Use IP c
 
 # NOTE:  At the end of module, remove all policies.  Delete all the resources created in the module
 
-# Implementing access management for apps (~90 Minutes)
+# Learning Path 3: Implementing access management for apps (~90 Minutes)
 
 ## Lab 17 – Defender for Cloud Apps application discovery and enforcing restrictions (10 Minutes)
 
@@ -300,7 +300,7 @@ Task 1 - Grant admin consent in App registrations (Skip task, option has been re
 
 # Implementing access management for apps (~90 Minutes)
 
-# Plan and implement an identity governance strategy (~130 Minutes)
+# Learning Path 4: Plan and implement an identity governance strategy (~130 Minutes)
 
 ## Lab 22 – Create and manage a catalog of resources in Azure AD entitlement management (15 Minutes)
 
