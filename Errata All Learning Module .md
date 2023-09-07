@@ -2,7 +2,7 @@
 
 # NOTE:  At the end of each module of labs, delete all the resources created in the module
 
-# Learning Path 1: Implement an identity management solution (~190 Minutes)
+# Module 2: Implement an identity management solution (~190 Minutes)
 
 ## Lab 0 - Create a Microsoft Azure Pass Subscription (10 Minutes) Already completed during class introduction
 Step 2:  Activate your subscription<br>
@@ -154,7 +154,7 @@ Step 3;  Login as  corp\AGAyers<br>
 
 # NOTE:  At the end of module, delete all the resources created in the module
  
-# Learning Path 2: Implement an authentication and access management solution (~150 Miuntes)
+# Module 3: Implement an authentication and access management solution (~150 Miuntes)
 
 ## Lab 08 – enable Azure AD multifactor authentication (15 Minutes)
 
@@ -195,7 +195,7 @@ Task 5 - Connect to the Windows Server 2022 Datacenter using Azure AD login <br>
 Step 7:  Username:  AzureAD\jonis@yourazuretenantname <br>
 
 ### Exercise 2 - Login to Linux Virtual Machines in Azure with Azure AD
-<br>
+
 Task 1 - Create a Linux VM with system assigned managed identity<br>
 Use the following setting on the Basic tab<br>
 Resource group;  myDemoRG<br>
@@ -255,7 +255,7 @@ Step 2: returns unable to resolve the name.  Open a PowerShell Prompt.  Use IP c
 
 # NOTE:  At the end of module, remove all policies.  Delete all the resources created in the module
 
-# Learning Path 3: Implementing access management for apps (~90 Minutes)
+# Module 4: Implementing access management for apps (~90 Minutes)
 
 ## Lab 17 – Defender for Cloud Apps application discovery and enforcing restrictions (10 Minutes)
 
@@ -296,7 +296,7 @@ Task 1 - Grant admin consent in App registrations (Skip task, option has been re
 
 # NOTE:  At the end of module, remove any policies or security settings.  Delete all the resources created in the module
  
-# Plan and implement an identity governance strategy (~130 Minutes)
+# Module 5:  Plan and implement an identity governance strategy (~130 Minutes)
 
 # Implementing access management for apps (~90 Minutes)
 

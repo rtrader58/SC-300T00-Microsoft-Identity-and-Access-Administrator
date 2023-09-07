@@ -1,8 +1,8 @@
-# SC-300T00 Microsoft Identity and Access Administrator - Learning Path 2 (Module 3) Errata
+# SC-300T00 Microsoft Identity and Access Administrator - Module 3 Errata
 
 # NOTE:  At the end of each module of labs, delete all the resources created in the module
 
-## Learning Path 2 (Module 3): Implement an authentication and access management solution (~150 Minutes)
+## Module 3: Implement an authentication and access management solution (~150 Minutes)
 
 ## Lab 08 – enable Azure AD multifactor authentication (15 Minutes)
 
