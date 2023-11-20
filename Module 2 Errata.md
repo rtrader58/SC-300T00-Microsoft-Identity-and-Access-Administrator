@@ -5,14 +5,21 @@
 # Module 2: Implement an identity management solution (~190 Minutes)
 
 ## Lab 0 - Create a Microsoft Azure Pass Subscription (10 Minutes) Already completed during class introduction
+Step 1: Redeeming a Microsoft Azure Pass Promo Code:
+Substep 3:  Use the User account and passowrd located in the Resources tab
+Substep 5:  complete the Campcha
 
 Step 2:  Activate your subscription<br>
-Leave Name and email as is, enter your information in the remaining fields – must include a valid phone number and address<br>
+Enter your First and Last name<br>
+Leave email as is<br>
+Enter your information in the remaining fields<br>
+Must an Address and a valid phone number<br>
 
 # Optional - Lab 07 
 
 ## If you intend on doing lab 07 continue with the the following steps, if not start with lab 01
 Important note: a later lab requires a time-consuming deployment. To save your time later, we suggest that you kick off that portion of the lab now so it’s ready when you get there. <br>
+
 Before starting Lab 01 use the next button to skip to Lab 07.  Complete Lab 07 Exercise 1 Task 1 - Once the deployment has started use the previous button to return to Lab 01 Continue with Lab 01, and Lab 07 should be ready when you get there<br>
 
 ## Lab 01 – Manage user roles (30 Minutes)
@@ -20,8 +27,11 @@ Before starting Lab 01 use the next button to skip to Lab 07.  Complete Lab 07 E
 ### Exercise 1 – Create a new user and test their application admin rights
 
 Task 1:  Add a new user<br>
-Step 6:  Use the following password<br>
-Pass@word!<br>
+Step 1:  Type the link into the Lab Machine Web browser
+Step 6:  Open Notepad and paste the auto generated password<br>
+
+Task 2 - Login and try to create an app<br>
+Step 3:  Create password use:  Pa55w.rd1234<br>
 
 Task 2: Bulk addition of users using PowerShell<br>
 Step 2: After running Install-Module AzureAD run Import-Module AzureAD to import the module prior to use<br>
@@ -35,10 +45,20 @@ After pasting delete your tenant name you pasted at the bottom of the file <br>
 
 Task 2:  Bulk addition of users using PowerShell<br>
 
-Step 7:  Copy and paste your tenant name from the Azure Portal notepad<br>
-Paste the New-Aduser cmdlet into notepad<br>
+Before running the this task you will need to download and install Powershell V7.2 first.  On the Lab machine Edge browser search for powershell-7.3.1-win-x64.msi Follow the prompts to downloadd and install <br> 
+
+Step 1:  Open the black PowerShell Prompt in the task bar as an administrator <br>
+
+Step 5:  Open PowerShell ISE <br>
+Paste $PwProfile command into PowerShell ISE <br>
+Replace <Enter a complex password you will> with Pa55w.rd1234<br>
+Click Run<br>
+
+Step 6: 
+Paste the New-MGuser cmdlet into PowerShell ISE<br>
 Replace the labtenname.com with your tenant name<br>
-Copy and paste cmdlet into PowerShell<br>
+Change -usagelocation from "USA" to "US"<br>
+Click Run <br>
 
 ### Exercise 6 - Add a Windows 10 license to a user account
 
@@ -50,18 +70,15 @@ Step 5:  Click edit properties > Settings tab to verify Usage location<br>
 ### Exercise 3 - Setting your privacy information
 
 Task 1 - Adding your privacy info on Azure AD, including Global privacy contact and Privacy statement URL<br>
-Step 2:  Will not paste.  In the lab environment use edge to browse to the github.com repository to the pdf and copy URL from browser<br>
-Use the following steps to get to the PDF<br>
-https://github.com <br>
-On the github page search for SC-300<br>
-Select MicrosoftLearning > Allfiles > Labs > Lab2 > SC-300-Lab_ContosotPrivacySample.pdf<br>
-Copy URL<br>
+Step 2:  Use lighting bolt method to copy and paste URL<br>
 
 ## Lab 03:  Assigning licenses using group membership (25 Minutes)
 
 Exercise 1 - Create a security group and add a user<br>
-Task 4 - Confirm the SteOffice 365 license<br>
-Step 4:  it may take up to 5 minutes for the license to be applied, logout wait a few minutes log back in<br>
+Before running Exercise you will need to reset Delia's password.  Password in lab does not work. Use notepad to store temporary password.  When logging on you will be prompted to change it.  Change it to Pa55w.rd1234 <br>
+
+Task 4 - Confirm the Office 365 license<br>
+Step 4:  It may take up to 5 minutes for the license to be applied, logout wait a few minutes log back in<br>
 
 ## Lab 04:  Configure external collaboration settings (5 Minutes)
 
@@ -95,20 +112,18 @@ Step 5:  In the Application type menu, select Web application. Give the applicat
 Copy and paste the URLs into notepad, paste 1 line at a time do not include the – <br>
 Copy the client ID and Secret and paste in notepad<br>
 
-# Disregarrd - Lab 07 has been removed from the environment.
-
-## Lab 07 – Add Hybrid Identity with Azure AD Connect (75 Minutes)
+## Lab 07 – Add Hybrid Identity with Microsoft Entra Connect (75 Minutes)
 
 ### Exercise 1 – Setup On-Premises infrastructure
 
-<br>
 Task 1 – Create the on-premises Active Directory infrastructure<br>
-Step 1:  The link may not paste in the lab environment, if not enter the following in Edge<br>
-	https://github.com/maxskunkworks/TLG/tree/master/tlg-base-config_3-vm<br>
-Step3:  when deplying the VM choose size  Standard_D2s_v2<br>
+Step 1:  Open and additional tab in the edge browser to paste.  The link may not paste in the lab environment, if not enter the following in Edge<br>
+https://github.com/maxskunkworks/TLG/tree/master/tlg-base-config_3-vm<br>
+Step 3:  Set password to:  Pa55w.rd1234<br>
+wWen deplying the VM choose size  Standard_D2s_v2<br>
+DNS label prefix you use – I used retSC300<br>
 
-Note the DNS label prefix you use – I used retSC300<br>
-Note:  If you jumped here after completing Lab 0, do not wait for the deployment to finish, press Previous to return to Lab 1<br>
+### Note:  If you jumped here after completing Lab 0, do not wait for the deployment to finish, press Previous to return to Lab 1<br>
 
 Task 2 - Configure the lab environment Azure VMs<br>
 Step 1:  Password is incorrect use   demo@pass123<br>
@@ -156,5 +171,6 @@ Task 11: Perform Hybrid Azure AD join<br>
 Step 3;  Login as  corp\AGAyers<br>
 
 # NOTE:  At the end of module, delete all the resources created in the module
+
  
 
