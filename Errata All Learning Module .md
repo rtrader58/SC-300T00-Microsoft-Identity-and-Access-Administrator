@@ -1,9 +1,7 @@
 # SC-300T00 Microsoft Identity and Access Administrator - All Modules Errata
 
 # NOTE:  At the end of each module of labs, delete all the resources created in the module
-
 # Module 2: Implement an identity management solution (~190 Minutes)
-
 ## Lab 0 - Create a Microsoft Azure Pass Subscription (10 Minutes) Already completed during class introduction
 Step 1: Redeeming a Microsoft Azure Pass Promo Code:
 Substep 3:  Use the User account and passowrd located in the Resources tab
@@ -28,7 +26,7 @@ Before starting Lab 01 use the next button to skip to Lab 07.  Complete Lab 07 E
 
 Task 1:  Add a new user<br>
 Step 1:  Type the link into the Lab Machine Web browser
-Step 6:  Open Notepad and paste the auto generated passowrd<br>
+Step 6:  Open Notepad and paste the auto generated password<br>
 
 Task 2 - Login and try to create an app<br>
 Step 3:  Create password use:  Pa55w.rd1234<br>
@@ -45,20 +43,20 @@ After pasting delete your tenant name you pasted at the bottom of the file <br>
 
 Task 2:  Bulk addition of users using PowerShell<br>
 
-Before running the this task you will need to download and install Powershell V7.2 first.  In the Lab machine Edge browser search for powershell-7.3.1-win-x64.msi Follow the prompts to downloadd and install <br> 
+Before running the this task you will need to download and install Powershell V7.2 first.  On the Lab machine Edge browser search for powershell-7.3.1-win-x64.msi Follow the prompts to downloadd and install <br> 
 
 Step 1:  Open the black PowerShell Prompt in the task bar as an administrator <br>
 
-Step 5:  Open Notepad<br>
-Paste $PwProfile command into notepad <br>
+Step 5:  Open PowerShell ISE <br>
+Paste $PwProfile command into PowerShell ISE <br>
 Replace <Enter a complex password you will> with Pa55w.rd1234<br>
-Copy into Powershell and hit enter<br>
+Click Run<br>
 
 Step 6: 
-Paste the New-MGuser cmdlet into Notepad<br>
+Paste the New-MGuser cmdlet into PowerShell ISE<br>
 Replace the labtenname.com with your tenant name<br>
 Change -usagelocation from "USA" to "US"<br>
-Copy and paste into PoserShell
+Click Run <br>
 
 ### Exercise 6 - Add a Windows 10 license to a user account
 
@@ -75,10 +73,10 @@ Step 2:  Use lighting bolt method to copy and paste URL<br>
 ## Lab 03:  Assigning licenses using group membership (25 Minutes)
 
 Exercise 1 - Create a security group and add a user<br>
-Before running Exercise you will need to reset Delia's password.  password in lab does not work Use notepad to store temporary password.  When logging on you will be prompted to change it.  Change it to Pa55w.rd1234 <br>
+Before running Exercise you will need to reset Delia's password.  Password in lab does not work. Use notepad to store temporary password.  When logging on you will be prompted to change it.  Change it to Pa55w.rd1234 <br>
 
 Task 4 - Confirm the Office 365 license<br>
-Step 4:  it may take up to 5 minutes for the license to be applied, logout wait a few minutes log back in<br>
+Step 4:  It may take up to 5 minutes for the license to be applied, logout wait a few minutes log back in<br>
 
 ## Lab 04:  Configure external collaboration settings (5 Minutes)
 
