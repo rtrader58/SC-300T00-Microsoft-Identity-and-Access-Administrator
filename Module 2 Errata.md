@@ -120,7 +120,7 @@ Task 1 – Create the on-premises Active Directory infrastructure<br>
 Step 1:  Open and additional tab in the edge browser to paste.  The link may not paste in the lab environment, if not enter the following in Edge<br>
 https://github.com/maxskunkworks/TLG/tree/master/tlg-base-config_3-vm<br>
 Step 3:  Set password to:  Pa55w.rd1234<br>
-When deplying the VM choose size  Standard_D2s_v2<br>
+When deplying the VM choose size  Standard_DS2_v2<br>
 DNS label prefix you use – I used retSC300<br>
 
 ### Note:  If you jumped here after completing Lab 0, do not wait for the deployment to finish, press Previous to return to Lab 1<br>
