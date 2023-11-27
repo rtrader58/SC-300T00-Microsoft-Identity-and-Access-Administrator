@@ -2,9 +2,9 @@
 
 # NOTE:  At the end of each module of labs, delete all the resources created in the module
 
-## Module 3: Implement an authentication and access management solution (~150 Minutes)
+# Module 3: Implement an authentication and access management solution (~150 Miuntes)
 
-## Lab 08 – enable Azure AD multifactor authentication (15 Minutes)
+## Lab 08 – enable multifactor authentication (15 Minutes)
 
 ### IMPORTANT - An Azure AD Premium license is required for this exercise. - O365 AAD has already been provisioned
 
