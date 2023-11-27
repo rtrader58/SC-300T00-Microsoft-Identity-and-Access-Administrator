@@ -172,14 +172,14 @@ Step 3;  Login as  corp\AGAyers<br>
  
 # Module 3: Implement an authentication and access management solution (~150 Miuntes)
 
-## Lab 08 – enable Azure AD multifactor authentication (15 Minutes)
+## Lab 08 – enable multifactor authentication (15 Minutes)
 
 ### IMPORTANT - An Azure AD Premium license is required for this exercise. - O365 AAD has already been provisioned
 
 ### Exercise 1 - Review and enable Multi-factor Authentication in Azure
 
-Task 2 - Setup conditional access rules for MFA for Delia Dennis
-Step 9:  Typo - should read as Ensure that Require all the selected controls is selected
+Task 2 - Setup conditional access rules for MFA for Delia Dennis<br>
+Step 9:  Typo - should read as Ensure that Require all the selected controls is selected<br>
 
 ## Lab 09 – Configure and deploy self-service password reset (15 Minutes)
 
