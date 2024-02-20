@@ -27,7 +27,7 @@ Before starting Lab 01 use the next button to skip to Lab 07.  Complete Lab 07 E
 ### Exercise 1 – Create a new user and test their application admin rights
 
 Task 1:  Add a new user<br>
-Step 1:  Type the link into the Lab Machine Web browser
+Step 1:  Type the link into the Lab Machine Web browser<br?
 Step 6:  Open Notepad and paste the auto generated password<br>
 
 Task 2 - Login and try to create an app<br>
