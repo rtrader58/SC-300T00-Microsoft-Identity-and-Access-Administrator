@@ -119,7 +119,7 @@ Copy the client ID and Secret and paste in notepad<br>
 Task 1 – Create the on-premises Active Directory infrastructure<br>
 Step 1:  Open and additional tab in the edge browser to paste.  The link may not paste in the lab environment, if not enter the following in Edge<br>
 https://github.com/maxskunkworks/TLG/tree/master/tlg-base-config_3-vm<br>
-Step 3:  Set password to:  Pa55w.rd1234<br>
+Step 3:  Set password to:  demo@pass123<br>
 When deplying the VM choose size  Standard_DS2_v2<br>
 DNS label prefix you use – I used retSC300<br>
 
@@ -141,7 +141,6 @@ Browse to the downloaded file and extract<br>
 Browse to c:downloads\MCW-hybrid-identity-main\ MCW-hybrid-identity-main\Hands-on labs\studentfiles<br>
 Skip to Step 5<br>
 Step 8:  After running the script open Active Directory Users and Computers to verify the Demo Accounts OU has been created and populated with users and groups.<br>
-
 Note:  when the script is running you may see red flashing by, ignore<br>
 Do not run the script a second time, it will delete the Demo Accounts OU<br>
 Step 9:  Paste into another tab in the ISE before running<br>
@@ -149,26 +148,10 @@ Step 10:  Paste into another tab in the ISE before running<br>
 
 ### Exercise 2: Integrate an Active Directory forest with an Azure Active Directory tenant
 
-Task 1: Create an Azure Active Directory tenant and activate an EMS E5 trial<br>
-Step 6:  recommend initials then Contoso when creating the initial domain name<br>
+Skip Task 1: Create an Azure Active Directory tenant and activate an EMS E5 trial<br>
 
-Note:  do not close the Captia once it says Tenant Creation in Progress<br>
-Step 7:  Select navigate to tenant when successful<br>
-Skip to Step 11<br>
-
-Task 3: Purchase a custom domain name<br>
-Step 1:  Navigate to Azure Active Directory > Manage tenants > Select the Contoso Marketing Tenant > Switch <br>
-Skip Step 2<br>
-Step 9:  change the email to a valid email you use<br>
-Step 12:  If deployment fails continue with the next task.<br>
-Your custom domain name will not verify but the lab will still work<br>
-Task 6: Install Azure AD Connect<br>
-Step 18:  Password is demo@pass123<br>
-Step 25:  Password is demo@pass123<br>
-Task 9: Initiate and verify directory synchronization<br>
-Step 11:  In Chrome<br>
-Task 11: Perform Hybrid Azure AD join<br>
-Step 3;  Login as  corp\AGAyers<br>
+Task 5:  Configure DNS suffix in the Contoso Active Directory forest <br>
+Step 6:  Use Contoso.com as alternate name
 
 # NOTE:  At the end of module, delete all the resources created in the module
 
