@@ -61,7 +61,8 @@ Step 4:  Choose your Global Admin as a member<br>
 
 ## Lab 11 - Assign Azure resource roles in Privileged Identity Management (10 Minutes)<br>
 
-### No errata
+### Exercise 1 - PIM with Azure resources
+Step 4: change the view to legacy view to see the Discover resource<br>
 
 ## Lab 12 – Manage Azure AD smart lockout values (5 Minutes)
 
