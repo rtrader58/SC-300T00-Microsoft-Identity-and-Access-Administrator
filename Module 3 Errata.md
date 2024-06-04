@@ -100,6 +100,7 @@ Task 2 - Create a Key Vault<br>
 Step 6:  May need to add your initials to the Key vault name<br>
 
 Task 5 - Access data with Key Vault secret with PowerShell<br>
-Step 2: returns unable to resolve the name.  Open a PowerShell Prompt.  Use IP config to determine the computer’s IP address.  Replace the address in the CMDLET with the IP address<br>
+Step 1;  Ensure you have connected via RDP to VM3
+Step 2: If it returns unable to resolve the name.  Open a PowerShell Prompt.  Use IP config to determine the computer’s IP address.  Replace the address in the CMDLET with the IP address<br>
 
 # NOTE:  At the end of module, remove all policies.  Delete all the resources created in the module
