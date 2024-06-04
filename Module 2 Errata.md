@@ -119,27 +119,25 @@ Copy the client ID and Secret and paste in notepad<br>
 Task 1 – Create the on-premises Active Directory infrastructure<br>
 Step 1:  Open and additional tab in the edge browser to paste.  The link may not paste in the lab environment, if not enter the following in Edge<br>
 https://github.com/maxskunkworks/TLG/tree/master/tlg-base-config_3-vm<br>
-Step 3:  Set password to:  demo@pass123<br>
+Step 3:  Set password to: I used the user password under Resources<br>
 When deplying the VM choose size  Standard_DS2_v2<br>
 DNS label prefix you use – I used retSC300<br>
 
 ### Note:  If you jumped here after completing Lab 0, do not wait for the deployment to finish, press Previous to return to Lab 1<br>
 
 Task 2 - Configure the lab environment Azure VMs<br>
-Step 1:  Password is incorrect use   demo@pass123<br>
+Step 1:  Password is incorrect use you set<br>
 Steps 2, 3, 4, 5 it easier to run each one in a separate tab in the PowerShell ISE<br>
 
 There is no Task 4<br>
 
 Task 5 - Configure contoso.local Active Directory<br>
-Step 1:  Password is incorrect use   demo@pass123<br>
+Step 1:  Password is incorrect use you set<br>
 After connecting, launch IE download and install Chrome.  Then complete task 5 in Chrome<br>
-Replace Step 2 with the following: <br> 
-Browse to https://github.com/microsoft/MCW-Hybrid-identity<br>
-Select the Code box and click on Download zip.<br>
-Browse to the downloaded file and extract<br>
-Browse to c:downloads\MCW-hybrid-identity-main\ MCW-hybrid-identity-main\Hands-on labs\studentfiles<br>
-Skip to Step 5<br>
+Replace Step 2 - 4 with the following: <br> 
+Browse to https://github.com/microsoft/MCW-Hybrid-identity/tree/main/Archive/Hands-on%20lab/studentfiles<br>
+Click on CreateDemoUsers.csv > On the Code box > click on Download Raw file > click back button on browser<br>
+Click on CreateDemoUsers.ps1 > On the Code box > click on Download Raw file<br>
 Step 8:  After running the script open Active Directory Users and Computers to verify the Demo Accounts OU has been created and populated with users and groups.<br>
 Note:  when the script is running you may see red flashing by, ignore<br>
 Do not run the script a second time, it will delete the Demo Accounts OU<br>
@@ -150,8 +148,12 @@ Step 10:  Paste into another tab in the ISE before running<br>
 
 Skip Task 1: Create an Azure Active Directory tenant and activate an EMS E5 trial<br>
 
+There is no Task 3 and 4
+
 Task 5:  Configure DNS suffix in the Contoso Active Directory forest <br>
+Step 5:  Password is incorrect use you set<br>
 Step 6:  Use Contoso.com as alternate name
+Step 7:  In line 1 of the script replace <custom_domain_name> with Contoso.com
 
 # NOTE:  At the end of module, delete all the resources created in the module
 
