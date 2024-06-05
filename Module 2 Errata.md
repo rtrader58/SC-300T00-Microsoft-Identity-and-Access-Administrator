@@ -155,7 +155,7 @@ Step 5:  Password is incorrect use you set<br>
 Step 6:  Use Contoso.com as alternate name
 Step 7:  In line 1 of the script replace <custom_domain_name> with Contoso.com
 
-# NOTE:  At the end of module, delete all the resources created in the module
+# NOTE:  At the end of module, deallocate all the resources created in the module
 
  
 
