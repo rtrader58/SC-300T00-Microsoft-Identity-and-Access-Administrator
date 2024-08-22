@@ -12,8 +12,6 @@ Azure Fridays - https://learn.microsoft.com/en-us/shows/azure-friday/<br>
 Microsoft Learning community Blog - https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog<br>
 Azure Documentation - https://learn.microsoft.com/en-us/azure/?product=popular<br>
 
-Who Hacked Cloud Game - https://learn.microsoft.com/en-us/training/modules/sc-200-who-hacked-cloud-game/
-
 ## Course links
 
 ### Module 2:  Implement an Identity Management Solution
