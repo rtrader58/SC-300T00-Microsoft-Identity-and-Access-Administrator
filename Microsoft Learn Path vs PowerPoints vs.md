@@ -82,5 +82,4 @@ Lab 26 – Configure Privileged Identity management for Azure Entra Roles (30 Mi
 Lab 27 – Microsoft Sentinel Kusto Queries for Azure data sources (30 Minutes)<br>
 Lab 28 – Monitor and manage security posture with Identity Secure Score (15 Minutes)<br>
 
-### Who Hacked Cloud Game - https://learn.microsoft.com/en-us/training/modules/sc-200-who-hacked-cloud-game/
 
