@@ -55,13 +55,13 @@ Plan and design the integration of enterprise apps for SSO - https://learn.micro
 Implement and monitor the integration of enterprise apps for SSO - https://learn.microsoft.com/en-us/training/modules/implement-monitor-integration-of-enterprise-apps-for-sso/<br>
 Implement app registration - https://learn.microsoft.com/en-us/training/modules/implement-app-registration/<br>
 
-### Labs - Implementing access management for apps (~90 Minutes)
+### Labs - Implementing access management for apps (~95 Minutes)
 
 Lab 17 – Defender for Cloud Apps application discovery and enforcing restrictions (15 Minutes)<br>
 Lab 18 – Defender for Cloud Apps Access and Session Policies (20 Minutes)<br>
 Lab 19 – Register an application (30 Minutes)<br>
-Lab 20 – Implement access management for apps (5 Minutes)<br>
-Lab 21 – Grant tenant-wide admin consent to an application (15 Minutes)<br>
+Lab 20 – Implement access management for apps (10 Minutes)<br>
+Lab 21 – Grant tenant-wide admin consent to an application (20 Minutes)<br>
 
 ## Plan and Implement an Identity Governance - https://learn.microsoft.com/en-us/training/paths/plan-implement-identity-governance-strategy/
 
