@@ -14,7 +14,7 @@ Azure Documentation - https://learn.microsoft.com/en-us/azure/?product=popular<b
 
 ## Course links
 
-### Module 2:  Implement an Identity Management Solution
+### Module 2:  Implement access management for apps
 
 Azure Portal – https://portal.azure.com <br>
 Azure AD Admin Portal – https://aad.portal.azure.com <br>
@@ -36,7 +36,7 @@ Create, configure, and manage identities - https://docs.microsoft.com/learn/modu
 Implement and manage external identities - https://docs.microsoft.com/learn/modules/implement-manage-external-identities/ <br>
 Implement and manage hybrid identity - https://docs.microsoft.com/learn/modules/implement-manage-hybrid-identity/	 <br>
 
-### Module 3:  Secure Azure Active Directory users with multifactor Authentication
+### Module 3:  Implement an authentication and access management solution
 
 Deployment considerations for Azure AD Multi-Factor Authentication | Microsoft Docs - https://www.microsoft.com/en-us/download/details.aspx?id=57600  <br>
 Monitor Azure AD MFA activity - https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-reporting  <br>
