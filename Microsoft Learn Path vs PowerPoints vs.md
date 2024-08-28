@@ -70,7 +70,7 @@ Lab 21 – Grant tenant-wide admin consent to an application (20 Minutes)<br>
 Plan and implement entitlement management - https://learn.microsoft.com/en-us/training/modules/plan-implement-entitlement-management/<br>
 Plan, implement, and manage access reviews - https://learn.microsoft.com/en-us/training/modules/plan-implement-manage-access-review/<br>
 Plan and implement privileged access - https://learn.microsoft.com/en-us/training/modules/plan-implement-privileged-access/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.plan-implement-identity-governance-strategy<br>
-Monitor and maintain Azure Entra- https://learn.microsoft.com/en-us/training/modules/monitor-maintain-azure-active-directory/<br>
+Monitor and maintain Azure Entra - https://learn.microsoft.com/en-us/training/modules/monitor-maintain-azure-active-directory/<br>
 
 ### Labs - Plan and implement an identity governance strategy (~130 Minutes)
 
