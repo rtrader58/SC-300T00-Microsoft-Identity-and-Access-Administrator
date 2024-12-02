@@ -14,11 +14,11 @@ Azure Documentation - https://learn.microsoft.com/en-us/azure/?product=popular<b
 
 ## Course links
 
-### Module 2:  Implement access management for apps
+### Module 2: Implement an identity management solution​
 
 Azure Portal – https://portal.azure.com <br>
 Azure AD Admin Portal – https://aad.portal.azure.com <br>
-Note – this portal is still active, but most of its functionality is available in modern portals like the Entra Admin Center and M365 Admin
+Note – this portal is still active, but most of its functionality is available in modern portals like the Entra Admin Center and M365 Admin <br>
 Entra Admin Center – https://entra.microsoft.com  <br>
 M365 Admin Center – https://admin.microsoft.com <br>
 Microsoft Defender for Cloud Apps Portal – https://portal.cloudappsecurity.com  <br>
