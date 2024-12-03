@@ -28,7 +28,7 @@ Privileged Identity Management - https://docs.microsoft.com/azure/active-directo
 Manage custom security attributes - https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/custom-security-attributes-overview <br>
 Implement initial configuration of Azure AD - https://docs.microsoft.com/learn/modules/implement-initial-configuration-of-azure-active-directory/ <br>
 Create, configure, and manage identities - https://docs.microsoft.com/learn/modules/create-configure-manage-identities/ <br>
-Members verses Guest account default permissions - https://learn.microsoft.com/en-us/entra/fundamentals/users-default-permissions <br>
+Entra Members verses Guest account default permissions - https://learn.microsoft.com/en-us/entra/fundamentals/users-default-permissions <br>
 Implement and manage external identities - https://docs.microsoft.com/learn/modules/implement-manage-external-identities/ <br>
 Understand and manage the properties of B2B guest users - https://learn.microsoft.com/en-us/entra/external-id/user-properties <br>
 Implement and manage hybrid identity - https://docs.microsoft.com/learn/modules/implement-manage-hybrid-identity/	 <br>
