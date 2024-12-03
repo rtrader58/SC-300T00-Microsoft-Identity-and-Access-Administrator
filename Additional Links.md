@@ -25,14 +25,10 @@ Microsoft Defender for Cloud Apps Portal – https://portal.cloudappsecurity.com
 Classic subscription administrator roles, Azure roles, and Azure AD roles - https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles <br>
 Understand Azure role definitions - https://docs.microsoft.com/azure/role-based-access-control/role-definitions <br>
 Privileged Identity Management - https://docs.microsoft.com/azure/active-directory/privileged-identity-management/ <br>
-How To: Configure the Azure AD Multi-Factor Authentication registration policy - https://docs.microsoft.com/azure/active-directory/identity-protection/howto-identity-protection-configure-mfa-policy <br>
-Conditional Access: Require MFA for administrators - https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-policy-admin-mfa <br>
-Conditional Access: Require MFA for Azure management - https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-policy-azure-management <br>
-Conditional Access: Block legacy authentication - https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-policy-block-legacy <br>
-Conditional Access: Require MFA for all users - https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-policy-all-users-mfa <br>
 Manage custom security attributes - https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/custom-security-attributes-overview <br>
 Implement initial configuration of Azure AD - https://docs.microsoft.com/learn/modules/implement-initial-configuration-of-azure-active-directory/ <br>
 Create, configure, and manage identities - https://docs.microsoft.com/learn/modules/create-configure-manage-identities/ <br>
+Members verses Guest account default permissions - https://learn.microsoft.com/en-us/entra/fundamentals/users-default-permissions <br>
 Implement and manage external identities - https://docs.microsoft.com/learn/modules/implement-manage-external-identities/ <br>
 Implement and manage hybrid identity - https://docs.microsoft.com/learn/modules/implement-manage-hybrid-identity/	 <br>
 
@@ -41,7 +37,11 @@ Implement and manage hybrid identity - https://docs.microsoft.com/learn/modules/
 Deployment considerations for Azure AD Multi-Factor Authentication | Microsoft Docs - https://www.microsoft.com/en-us/download/details.aspx?id=57600  <br>
 Monitor Azure AD MFA activity - https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-reporting  <br>
 Planning a cloud-based Azure AD multifactor Authentication deployment - https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted <br>
-Deploy Azure AD self-service password reset - https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-deployment <br>
+How To: Configure the Azure AD Multi-Factor Authentication registration policy - https://docs.microsoft.com/azure/active-directory/identity-protection/howto-identity-protection-configure-mfa-policy <br>
+Conditional Access: Require MFA for administrators - https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-policy-admin-mfa <br>
+Conditional Access: Require MFA for Azure management - https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-policy-azure-management <br>
+Conditional Access: Block legacy authentication - https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-policy-block-legacy <br>
+Conditional Access: Require MFA for all users - https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-policy-all-users-mfa <br>Deploy Azure AD self-service password reset - https://docs.microsoft.com/azure/active-directory/authentication/howto-sspr-deployment <br>
 Describe how to disable accounts and revoke user sessions - https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/users-revoke-access  <br>
 Disable accounts: On-premises and Azure AD users - https://docs.microsoft.com/en-us/azure/active-directory/enterprise-users/users-revoke-access  <br>
 Configure Kerberos for use in Azure AD - https://docs.microsoft.com/en-us/azure/active-directory/app-proxy/application-proxy-configure-single-sign-on-with-kcd  <br>
