@@ -87,6 +87,7 @@ Create and access a secret in Azure Key Vault - https://learn.microsoft.com/en-u
 
 ### Module 4:  Implement Access Management for Apps
 
+What is Microsoft Identity Platform - https://learn.microsoft.com/en-us/entra/identity-platform/ <br>
 MDCA ebook - https://go.microsoft.com/fwlink/p/?LinkID=2079728&clcid=0x409&culture=en-us&country=US   <br>
 Microsoft Defender for Cloud Apps - https://docs.microsoft.com/en-us/cloud-app-security/what-is-cloud-app-security  <br>
 What is an app connector in Defender for Cloud Apps? - https://docs.microsoft.com/en-us/defender-cloud-apps/enable-instant-visibility-protection-and-governance-actions-for-your-apps  <br>
