@@ -1,21 +1,18 @@
 Interface Technical Training - http://www.interfacett.com<br>
-Lab environment - https://interfacett.learnondemand.net<br>
-Github lab repository - https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator<br>
 Microsoft Certified: Cybersecurity Architect Expert - https://learn.microsoft.com/en-us/certifications/cybersecurity-architect-expert/<br>
 SC-300 Exam Objectives - https://docs.microsoft.com/en-us/certifications/exams/sc-300<br>
 SC-300 Exam study guide - https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-300 <br>
 Interface Technical Training Exam Promo - https://www.interfacett.com/microsoft-certification-exams/<br>
+Lab environment - https://interfacett.learnondemand.net<br>
+Microsoft Master Github lab repository - https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator<br>
 Microsoft Azure Blog - https://azure.microsoft.com/en-us/blog/<br>
 Azure Forums - https://social.msdn.microsoft.com/Forums/en-US/home?category=windowsazureplatform<br>
 Azure Tuesdays with Corey - https://learn.microsoft.com/en-us/shows/tuesdays-with-corey/<br>
 Azure Fridays - https://learn.microsoft.com/en-us/shows/azure-friday/<br>
 Microsoft Learning community Blog - https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog<br>
 Azure Documentation - https://learn.microsoft.com/en-us/azure/?product=popular<br>
-
 ## Course links
-
 ### Module 2: Implement an identity management solution​
-
 Azure Portal – https://portal.azure.com <br>
 Azure AD Admin Portal – https://aad.portal.azure.com <br>
 Note – this portal is still active, but most of its functionality is available in modern portals like the Entra Admin Center and M365 Admin <br>
@@ -32,9 +29,7 @@ Entra Members verses Guest account default permissions - https://learn.microsoft
 Implement and manage external identities - https://docs.microsoft.com/learn/modules/implement-manage-external-identities/ <br>
 Understand and manage the properties of B2B guest users - https://learn.microsoft.com/en-us/entra/external-id/user-properties <br>
 Implement and manage hybrid identity - https://docs.microsoft.com/learn/modules/implement-manage-hybrid-identity/	 <br>
-
 ### Module 3:  Implement an authentication and access management solution
-
 Deployment considerations for Azure AD Multi-Factor Authentication | Microsoft Docs - https://www.microsoft.com/en-us/download/details.aspx?id=57600  <br>
 Monitor Azure AD MFA activity - https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-reporting  <br>
 Planning a cloud-based Azure AD multifactor Authentication deployment - https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted <br>
@@ -84,17 +79,13 @@ Assign a managed identity access to a resource using the Azure portal - Azure AD
 Understand Azure role definitions - Azure RBAC | Microsoft Docs - https://learn.microsoft.com/en-us/azure/role-based-access-control/role-definitions  <br>
 Grant permission to applications to access an Azure key vault using Azure RBAC | Microsoft Docs - https://learn.microsoft.com/en-us/azure/key-vault/general/rbac-guide?tabs=azure-cli  <br>
 Create and access a secret in Azure Key Vault - https://learn.microsoft.com/en-us/azure/key-vault/secrets/quick-create-portal  <br>
-
 ### Module 4:  Implement Access Management for Apps
-
 What is Microsoft Identity Platform - https://learn.microsoft.com/en-us/entra/identity-platform/ <br>
 MDCA ebook - https://go.microsoft.com/fwlink/p/?LinkID=2079728&clcid=0x409&culture=en-us&country=US   <br>
 Microsoft Defender for Cloud Apps - https://docs.microsoft.com/en-us/cloud-app-security/what-is-cloud-app-security  <br>
 What is an app connector in Defender for Cloud Apps? - https://docs.microsoft.com/en-us/defender-cloud-apps/enable-instant-visibility-protection-and-governance-actions-for-your-apps  <br>
 Create and manage application collections - https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/access-panel-collections  <br>
-
 ### Module 5:  Plan and Implement an Identity Governance Strategy
-
 Frequently Asked Questions - https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/terms-of-use#frequently-asked-questions   <br>
 Add a connected organization in Azure AD entitlement management - Azure Active Directory - Microsoft Entra | Microsoft Docs - https://learn.microsoft.com/en-us/azure/active-directory/governance/entitlement-management-organization  <br>
 
