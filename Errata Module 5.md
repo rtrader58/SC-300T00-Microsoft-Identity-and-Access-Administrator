@@ -44,5 +44,6 @@ Step 7:  Search for Anomalous sign-in location by user account and authenticatin
 
 Task 2 - Execute an improvement action<br>
 Step 1:  Select Protect all users with a user risk policy<br>
+"Enable Microsoft Entra ID Identity Protection sign in risk polices" should read "Enable Conditional Access policies to block legacy authentication"
 
 # NOTE:  At the end of the module, remove any policies or security settings.  Delete all the resources created in the module
