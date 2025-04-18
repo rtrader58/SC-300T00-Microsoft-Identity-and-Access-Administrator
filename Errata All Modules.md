@@ -1,6 +1,6 @@
 # SC-300T00 Microsoft Identity and Access Administrator - All Modules Errata
 
-# NOTE:  At the end of each module of labs, delete all the resources created in the module
+# NOTE:  ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS 1-9, 12-15, 17-26 and 28
 
 # Module 2: Implement an identity management solution (~120 Minutes)
 
