@@ -4,7 +4,7 @@
 
 # Module 2: Implement an identity management solution (~120 Minutes)
 
-# Optional - Lab 07 - Cannot be accomplished in the current environment - requires creating a trial subscription
+# Lab 07 - Cannot be accomplished in the current environment - requires creating a trial subscription
 Important note: Lab requires a time-consuming deployment. <br>
 
 ## Lab 01 – Manage user roles (30 Minutes)
