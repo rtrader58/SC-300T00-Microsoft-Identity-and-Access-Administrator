@@ -1,40 +1,22 @@
 # SC-300T00 Microsoft Identity and Access Administrator - Module 2 Errata
 
-# NOTE:  At the end of each module of labs, delete all the resources created in the module
+# NOTE: ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS.
 
 # Module 2: Implement an identity management solution (~190 Minutes)
 
-## Lab 0 - Create a Microsoft Azure Pass Subscription (10 Minutes) Already completed during class introduction
-Step 1: Redeeming a Microsoft Azure Pass Promo Code:
-Substep 3:  Use the User account and passowrd located in the Resources tab
-Substep 5:  complete the Campcha
-
-Step 2:  Activate your subscription<br>
-Enter your First and Last name<br>
-Leave email as is<br>
-Enter your information in the remaining fields<br>
-Must an Address and a valid phone number<br>
-
-# Optional - Lab 07 
-
-## If you intend on doing lab 07 continue with the the following steps, if not start with lab 01
-Important note: a later lab requires a time-consuming deployment. To save your time later, we suggest that you kick off that portion of the lab now so it’s ready when you get there. <br>
-
-Before starting Lab 01 use the next button to skip to Lab 07.  Complete Lab 07 Exercise 1 Task 1 - Once the deployment has started use the previous button to return to Lab 01 Continue with Lab 01, and Lab 07 should be ready when you get there<br>
+# Optional - Lab 07 - Cannot be accomplished in the current environment - requires creating a trial subscription
+Important note: Lab requires a time-consuming deployment. <br>
 
 ## Lab 01 – Manage user roles (30 Minutes)
 
 ### Exercise 1 – Create a new user and test their application admin rights
 
 Task 1:  Add a new user<br>
-Step 1:  Type the link into the Lab Machine Web browser<br>
-Step 6:  Open Notepad and paste the auto generated password<br>
+Step 1:  Credentials are located in the Resources drop down - requires MFA with use of an Authenticaton App on phone<br>
+Step 5:  Open Notepad and paste the the user name and auto generated password<br>
 
 Task 2 - Login and try to create an app<br>
-Step 3:  Create password use:  Pa55w.rd1234<br>
-
-Task 2: Bulk addition of users using PowerShell<br>
-Step 2: After running Install-Module AzureAD run Import-Module AzureAD to import the module prior to use<br>
+Step 3:  Use the user password provided in the Resources drop down - requires MFA with use of an Authenticaton App on phone<br>
 
 ### Exercise 4 - Bulk import of users
 
@@ -45,37 +27,45 @@ After pasting delete your tenant name you pasted at the bottom of the file <br>
 
 Task 2:  Bulk addition of users using PowerShell<br>
 
-Before running the this task you will need to download and install Powershell V7.2 first.  On the Lab machine Edge browser search for powershell-7.3.1-win-x64.msi Follow the prompts to downloadd and install <br> 
+Task 2: Bulk addition of users using PowerShell<br>
+Step 1: To determine PowerShell version type $PSVersionTable and press “Enter.”
+If upgrade needed - Open the browser type https://aka.ms/PSWindows - Under Installing PowerShell 7 - click on MSI package - Click on PowerShell-7.5.0-win-x64.msi - Click open file - Follow the prompts to install <br>
+Close PowerShell <br>
+Search for and Open PowerShell 7 <br>
 
-Step 1:  Open the black PowerShell Prompt in the task bar as an administrator <br>
+Step 6:  Open Notepad<br>
+Paste $PwProfile command into Notepad <br>
+Replace <Enter a complex password you will> with User password from the Resources drop down<br>
+copy and paste from Notepad into the PowerShell prompt <br>
 
-Step 5:  Open PowerShell ISE <br>
-Paste $PwProfile command into PowerShell ISE <br>
-Replace <Enter a complex password you will> with Pa55w.rd1234<br>
-Click Run<br>
-
-Step 6: 
-Paste the New-MGuser cmdlet into PowerShell ISE<br>
-Replace the labtenname.com with your tenant name<br>
-Change -usagelocation from "USA" to "US"<br>
-Click Run <br>
+Step 7: Open Notepad  <br>
+Paste the command in Notepad <br>
+Replace <labtenantname.com> with your tenant <br>
+Copy and paste from Notepad into the PowerShell prompt <br>
 
 ### Exercise 6 - Add a Windows 10 license to a user account
 
 Task 1 - Find your unlicensed user in Azure Active Directory<br>
 Step 5:  Click edit properties > Settings tab to verify Usage location<br>
 
+Task 2 - Add a Windows license to Raul  <br>
+Step 6:  + Assign licenses <br>
+
 ## Lab 02 – Working with tenant properties (15 Minutes)
 
 ### Exercise 3 - Setting your privacy information
 
-Task 1 - Adding your privacy info on Azure AD, including Global privacy contact and Privacy statement URL<br>
-Step 2:  Use lighting bolt method to copy and paste URL<br>
+Task 2 - Check your Privacy Statement  <br>
+Step 1: Type https://portal.azure.com  <br>
 
 ## Lab 03:  Assigning licenses using group membership (25 Minutes)
 
 Exercise 1 - Create a security group and add a user<br>
-Before running Exercise you will need to reset Delia's password.  Password in lab does not work. Use notepad to store temporary password.  When logging on you will be prompted to change it.  Change it to Pa55w.rd1234 <br>
+Task 1 - Check to see if Delia Dennis has access to Office 365<br>
+DeliaD password is the User Password not the Admin password<br>
+
+Task 3 - Add an Office license to sg-SC300-O365
+Step 9: Should read sf-SC300-0365 not Raul
 
 Task 4 - Confirm the Office 365 license<br>
 Step 4:  It may take up to 5 minutes for the license to be applied, logout wait a few minutes log back in<br>
@@ -108,11 +98,10 @@ Initialssc300@gmail.com (FFsc300@gmail.com)<br>
 If the account is taken use a recommended one – Note your username and password<br>
 
 Step 1:  Does not paste – type in manually<br>
-Step 5:  In the Application type menu, select Web application. Give the application a suitable name, like Azure AD B2B. Under Authorized redirect URIs, add the following URIs:<br>
-Copy and paste the URLs into notepad, paste 1 line at a time do not include the – <br>
-Copy the client ID and Secret and paste in notepad<br>
+Step 13: Copy and paste the URLs into notepad, paste 1 line at a time do not include the – <br>
+Step 14: Copy the client ID and Secret and paste in notepad<br>
 
-## Lab 07 – Add Hybrid Identity with Microsoft Entra Connect (75 Minutes)
+## SKIP - Lab 07 – Add Hybrid Identity with Microsoft Entra Connect (75 Minutes)
 
 ### Exercise 1 – Setup On-Premises infrastructure
 
