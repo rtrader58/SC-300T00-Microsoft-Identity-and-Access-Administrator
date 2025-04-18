@@ -1,8 +1,8 @@
 # SC-300T00 Microsoft Identity and Access Administrator - Module 2 Errata
 
-# NOTE: ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS.
+# NOTE: ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS 1-9, 12-15, 17-26 and 28
 
-# Module 2: Implement an identity management solution (~190 Minutes)
+# Module 2: Implement an identity management solution (~120 Minutes)
 
 # Optional - Lab 07 - Cannot be accomplished in the current environment - requires creating a trial subscription
 Important note: Lab requires a time-consuming deployment. <br>
