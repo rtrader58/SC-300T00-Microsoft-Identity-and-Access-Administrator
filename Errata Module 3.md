@@ -1,6 +1,6 @@
 # SC-300T00 Microsoft Identity and Access Administrator - Module 3 Errata
 
-# NOTE:  At the end of each module of labs, delete all the resources created in the module
+# NOTE:  ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS 1-9, 12-15, 17-26 and 28
 
 # Module 3: Implement an authentication and access management solution (~150 Miuntes)
 
@@ -11,6 +11,8 @@
 ### Exercise 1 - Review and enable Multi-factor Authentication in Azure
 
 Task 2 - Setup conditional access rules for MFA for Delia Dennis<br>
+Step 5:  Select "Select resources" not None - Click Select - Choose Office 365
+Step 6:  Select Network - Choose yes on slider
 Step 9:  Typo - should read as Ensure that Require all the selected controls is selected<br>
 
 ## Lab 09 – Configure and deploy self-service password reset (15 Minutes)
