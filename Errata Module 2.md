@@ -64,7 +64,7 @@ Exercise 1 - Create a security group and add a user<br>
 Task 1 - Check to see if Delia Dennis has access to Office 365<br>
 DeliaD password is the User Password not the Admin password<br>
 
-Task 3 - Add an Office license to sg-SC300-O365
+Task 3 - Add an Office license to sg-SC300-O365<br>
 Step 9: Should read sf-SC300-0365 not Raul<br>
 
 Task 4 - Confirm the Office 365 license<br>
