@@ -81,6 +81,6 @@ Confirm you have a license <br>
 Task 5 - Access data with Key Vault secret with PowerShell<br>
 Step 1:  Ensure you have connected via RDP to adminKeyVault <br>
 Step 1:  Select Next > Select Accept <br>
-Step 2: If it returns unable to resolve the name.  Open a PowerShell Prompt.  Use IP config to determine the computer’s IP address.  Replace the address in the CMDLET with the IP address<br>
+Step 3: If it returns unable to resolve the name.  Open a PowerShell Prompt.  Use IP config to determine the computer’s IP address.  Replace the address in the CMDLET with the IP address<br>
 
 # NOTE:  At the end of module, remove all policies.  Delete all the resources created in the module
