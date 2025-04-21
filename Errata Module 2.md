@@ -65,7 +65,7 @@ Task 1 - Check to see if Delia Dennis has access to Office 365<br>
 DeliaD password is the User Password not the Admin password<br>
 
 Task 3 - Add an Office license to sg-SC300-O365
-Step 9: Should read sf-SC300-0365 not Raul
+Step 9: Should read sf-SC300-0365 not Raul<br>
 
 Task 4 - Confirm the Office 365 license<br>
 Step 4:  It may take up to 5 minutes for the license to be applied, logout wait a few minutes log back in<br>
