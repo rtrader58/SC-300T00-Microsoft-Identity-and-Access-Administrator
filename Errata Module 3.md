@@ -11,8 +11,8 @@
 ### Exercise 1 - Review and enable Multi-factor Authentication in Azure
 
 Task 2 - Setup conditional access rules for MFA for Delia Dennis<br>
-Step 5:  Select "Select resources" not None - Click Select - Choose Office 365
-Step 6:  Select Network - Choose yes on slider
+Step 5:  Select "Select resources" not None - Click Select - Choose Office 365<br>
+Step 6:  Select Network - Choose yes on slider<br>
 Step 9:  Typo - should read as Ensure that Require all the selected controls is selected<br>
 
 ## Lab 09 – Configure and deploy self-service password reset (15 Minutes)
@@ -27,44 +27,24 @@ Step 4:  Click on Security info > + Add sign-in method <br>
 ### Exercise 1 - Login to Windows Virtual Machines in Azure with Azure AD
 
 Task 1 - Create a Windows Virtual Machine with Azure AD login enabled<br>
+Step 1: Use User 1 for the credentials <br>
+Step 3: Type Windows 11 - Press Enter > Select the Window 11 Box > choose Windows 11 Enterprise, version 22H2 from the menu that opens <br>
+
 Use the following setting on the Basic tab<br>
-Resource group;  myDemoRG<br>
-Virtual machine name:  myVM1<br>
-Availability options:  No infrastructure redundancy required<br>
-Image:  Windows Server 2019 Datacenter – Gen 1<br>
-Username:  demouser<br>
-Password:  demo@pass123<br>
+You may have to select all sizes first to pick the DC1s_v3<br>
 
-On the Management tab, check the box to Login with Azure AD under the Azure AD section.<br>
-Make sure System assigned managed identity under the Identity section is checked. This action should happen automatically once you enable Login with Azure AD.<br>
+Task 3 - Update the Virtual Machine to allow the Microsoft Entra ID login<br>
+Step 7:  Select Next > Select Accept <br>
 
-Task 2 - Azure AD login for existing Azure Virtual Machines<br>
-Step 4:  Choose your Global Admin as a member<br>
+Task 4 - Modify your RDP file to support the Microsoft Entra ID login <br>
+Step 3: Ensure you choose just once when opening the file with notepad <br>
 
-Task 5 - Connect to the Windows Server 2022 Datacenter using Azure AD login <br>
-Step 7:  Username:  AzureAD\jonis@yourazuretenantname <br>
-
-### Exercise 2 - Login to Linux Virtual Machines in Azure with Azure AD
-
-Task 1 - Create a Linux VM with system assigned managed identity<br>
-Use the following setting on the Basic tab<br>
-Resource group;  myDemoRG<br>
-Virtual machine name:  myVM2<br>
-Availability options:  No infrastructure redundancy required<br>
-Authentication type:  Password<br>
-Username:  demouser<br>
-Password:  demo@pass123<br>
-
-On the Management tab, check the box to Login with Azure AD under the Azure AD section.<br>
-Make sure System assigned managed identity under the Identity section is checked. This action should happen automatically once you enable Login with Azure AD.<br>
-
-Task 2 - Azure AD login for existing Azure Virtual Machines<br>
-Step 4:  Choose your Global Admin as a member<br>
-
-## Lab 11 - Assign Azure resource roles in Privileged Identity Management (10 Minutes)<br>
+## Lab 11 - Assign Azure resource roles in Privileged Identity Management (10 Minutes)
 
 ### Exercise 1 - PIM with Azure resources
-Step 4: change the view to legacy view to see the Discover resource<br>
+Task 1 - Assign Azure resource roles<br>
+Step 1: Credentials are located under Resources tab<br>
+Skip steps 8 - 16 <br>
 
 ## Lab 12 – Manage Azure AD smart lockout values (5 Minutes)
 
@@ -72,7 +52,10 @@ Step 4: change the view to legacy view to see the Discover resource<br>
 
 ## Lab 13 – Implement and test a conditional access policy (30 Minutes)
 
-### No Errata
+### Exercise 1 - Set a conditional access policy to block DebraB from accessing Sway
+
+Task 1 -- Confirm DebraB has access to Sway <br>
+Debra's password is the User password not the Admin password <br>
 
 ## Lab 14 – Enable sign in and user risk policies (10 Minutes)
 
@@ -86,23 +69,18 @@ Step 4: change the view to legacy view to see the Discover resource<br>
 
 ### Exercise 1 - Use Azure Key Vault to manage Virtual Machine identities
 
-Task 1 - Create a Windows Virtual Machine with Azure AD login enabled<br>
-Use the following setting on the Basic tab<br>
-Resource group;  myDemoRG<br>
-Virtual machine name:  myVM3<br>
-Availability options:  No infrastructure redundancy required<br>
-Image:  Windows Server 2019 Datacenter – Gen 1<br>
-Username:  demouser<br>
-Password:  demo@pass123<br>
+Task 1 - Create a Key Vault<br>
+Step 1:  Credentials are located on the Resources drop down<br>
 
-On the Management tab, check the box to Login with Azure AD under the Azure AD section.<br>
-Make sure System assigned managed identity under the Identity section is checked. This action should happen automatically once you enable Login with Azure AD.<br>
-
-Task 2 - Create a Key Vault<br>
-Step 6:  May need to add your initials to the Key vault name<br>
+Task 2 - Create a Windows Virtual Machine<br>
+Step 2: Type Windows 11 - Press Enter > Select the Window 11 Box > choose Windows 11 Enterprise, version 22H2 from the menu that opens <br>
+Step 3: Use the following setting on the Basic tab<br>
+You may have to select all sizes first to pick the D2s-s_v3<br>
+Confirm you have a license <br>
 
 Task 5 - Access data with Key Vault secret with PowerShell<br>
-Step 1:  Ensure you have connected via RDP to VM3 <br>
+Step 1:  Ensure you have connected via RDP to adminKeyVault <br>
+Step 1:  Select Next > Select Accept <br>
 Step 2: If it returns unable to resolve the name.  Open a PowerShell Prompt.  Use IP config to determine the computer’s IP address.  Replace the address in the CMDLET with the IP address<br>
 
 # NOTE:  At the end of module, remove all policies.  Delete all the resources created in the module
