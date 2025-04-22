@@ -30,7 +30,7 @@ Step 4:  Click on Security info > + Add sign-in method <br>
 
 Task 1 - Create a Windows Virtual Machine with Azure AD login enabled<br>
 Step 1: Use User 1 for the credentials <br>
-Step 3: Type Windows 11 - Press Enter > Select the Window 11 Box > choose Windows 11 Enterprise, version 22H2 from the menu that opens <br>
+Step 3: Type Windows 11 - Press Enter > Select Create in the Window 11 Box > choose Windows 11 Enterprise, version 22H2 from the menu that opens <br>
 Step 3: You may have to select all sizes first to pick the DC1s_v3<br>
 Step 3: Check I confirm I have an elegible Windows 10/11 license with multi-tenant hosting rights<br>
 
