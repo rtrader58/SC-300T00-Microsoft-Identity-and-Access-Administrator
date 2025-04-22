@@ -50,7 +50,7 @@ Step 8: You will need to reset AdeleV or AlexW or DiegoS passwords before attemp
 
 Task 1 - Create a Linux VM with system assigned managed identity <br>
 Step 4: You may have to select all sizes first to pick the D2s_v3<br>
-Step 4: There is no Password > create a Key pair name 
+Step 4: There is no Password > create a Key pair name <br>
 
 ## Lab 11 - Assign Azure resource roles in Privileged Identity Management (10 Minutes)
 
@@ -88,8 +88,8 @@ Step 1:  Credentials are located on the Resources drop down<br>
 Task 2 - Create a Windows Virtual Machine<br>
 Step 2: Type Windows 11 - Press Enter > Select the Window 11 Box > choose Windows 11 Enterprise, version 22H2 from the menu that opens <br>
 Step 3: Use the following setting on the Basic tab<br>
-You may have to select all sizes first to pick the D2s-s_v3<br>
-Confirm you have a license <br>
+Step 3: You may have to select all sizes first to pick the D2s-s_v3<br>
+Step 3: Confirm you have a license <br>
 
 Task 5 - Access data with Key Vault secret with PowerShell<br>
 Step 1:  Ensure you have connected via RDP to adminKeyVault <br>
