@@ -100,10 +100,26 @@ Task 1- Configure Google to be used as an identity provider<br>
 
 ### Create a new project:
 
-Step 6: Click Get started
-
-Step 13: Copy and paste the URLs into notepad, paste 1 line at a time do not include the – <br>
+Step 5: Includes steps 6 and 7: Click Get started > Create an App Name > Select Next > Select External > add your gmail > Click Next > Select I agrree > Click Continue > Click Create<br>
+Step 8: Click Branding > Click + Add domain > follow steps 9 -11 > click Save<br>
+Step 11: Click Overview > Clcik Create OAth Client <br>
+Step 13:Click +Add URI Copy and paste the URLs into notepad, paste 1 line at a time do not include the – <br>
 Step 14: Copy the client ID and Secret and paste in notepad<br>
+
+Task 2 - Add a test user<br>
+Step 2: Select Audience > Select + Test User<br>
+
+### Exercise 2 - Configure Azure to work with an External identity provider
+
+Task 1 - Configure Microsoft Entra ID for Google federation<br>
+Step 5 and 6: Select Configure next to Google<br>
+
+Task 3 - Accept the invitation and login<br>
+Step 3: If you get an error > close the tab and select accept invite again<br>
+Step 4: Select send code<br>
+
+Task 4 - Login to Microsoft 365 using your Google account<br>
+Step 7: Enter the code sent to your email<br>
 
 ## SKIP - Lab 07 – Add Hybrid Identity with Microsoft Entra Connect (75 Minutes)
 
