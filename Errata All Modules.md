@@ -7,6 +7,7 @@
 # Optional - Lab 07 - Cannot be accomplished in the current environment - requires creating a trial subscription
 Important note: Lab requires a time-consuming deployment. <br>
 
+
 ## Lab 01 – Manage user roles (30 Minutes)
 
 ### Exercise 1 – Create a new user and test their application admin rights
@@ -64,8 +65,8 @@ Exercise 1 - Create a security group and add a user<br>
 Task 1 - Check to see if Delia Dennis has access to Office 365<br>
 DeliaD password is the User Password not the Admin password<br>
 
-Task 3 - Add an Office license to sg-SC300-O365
-Step 9: Should read sf-SC300-0365 not Raul
+Task 3 - Add an Office license to sg-SC300-O365<br>
+Step 9: Should read sf-SC300-0365 not Raul<br>
 
 Task 4 - Confirm the Office 365 license<br>
 Step 4:  It may take up to 5 minutes for the license to be applied, logout wait a few minutes log back in<br>
@@ -92,15 +93,34 @@ PowerShell was installed in a previous lab you may be able to start at step 4<br
 
 ### Exercise 1 – Configure identity providers
 
-Task 1- Configure Google to be used as an identity provider<br>
 Note:  Create a Gmail account for use in this lab, I recommend something like this<br>
 Initialssc300@gmail.com (FFsc300@gmail.com)<br>
 If the account is taken use a recommended one – Note your username and password<br>
 
-Step 1:  Does not paste – type in manually<br>
-Step 13: Copy and paste the URLs into notepad, paste 1 line at a time do not include the – <br>
+Task 1- Configure Google to be used as an identity provider<br>
+
+### Create a new project:
+
+Step 5: Includes steps 6 and 7: Click Get started > Create an App Name > Select Next > Select External > add your gmail > Click Next > Select I agrree > Click Continue > Click Create<br>
+Step 8: Click Branding > Click + Add domain > follow steps 9 -11 > click Save<br>
+Step 11: Click Overview > Clcik Create OAth Client <br>
+Step 13:Click +Add URI Copy and paste the URLs into notepad, paste 1 line at a time do not include the – <br>
 Step 14: Copy the client ID and Secret and paste in notepad<br>
 
+Task 2 - Add a test user<br>
+Step 2: Select Audience > Select + Test User<br>
+
+### Exercise 2 - Configure Azure to work with an External identity provider
+
+Task 1 - Configure Microsoft Entra ID for Google federation<br>
+Step 5 and 6: Select Configure next to Google<br>
+
+Task 3 - Accept the invitation and login<br>
+Step 3: If you get an error > close the tab and select accept invite again<br>
+Step 4: Select send code<br>
+
+Task 4 - Login to Microsoft 365 using your Google account<br>
+Step 7: Enter the code sent to your email<br>
 ## SKIP - Lab 07 – Add Hybrid Identity with Microsoft Entra Connect (75 Minutes)
 
 ### Exercise 1 – Setup On-Premises infrastructure
