@@ -1,8 +1,8 @@
-# SC-300T00 Microsoft Identity and Access Administrator - Module 2 Errata
+# SC-300T00 Microsoft Identity and Access Administrator - Learning Path 2 Errata
 
 # NOTE: ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS 1-9, 12-15, 17-26 and 28
 
-# Module 2: Implement an identity management solution (~120 Minutes)
+# Learning Path 2: Implement an identity management solution (~120 Minutes)
 
 # Lab 07 - Cannot be accomplished in the current environment - requires creating a trial subscription
 Important note: Lab requires a time-consuming deployment. <br>
@@ -102,7 +102,7 @@ Task 1- Configure Google to be used as an identity provider<br>
 
 Step 5: Includes steps 6 and 7: Click Get started > Create an App Name > Select Next > Select External > add your gmail > Click Next > Select I agrree > Click Continue > Click Create<br>
 Step 8: Click Branding > Click + Add domain > follow steps 9 -11 > click Save<br>
-Step 11: Click Overview > Clcik Create OAth Client <br>
+Step 11: Click Overview > Click Create OAth Client <br>
 Step 13:Click +Add URI Copy and paste the URLs into notepad, paste 1 line at a time do not include the – <br>
 Step 14: Copy the client ID and Secret and paste in notepad<br>
 
