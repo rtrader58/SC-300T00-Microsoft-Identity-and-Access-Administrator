@@ -265,34 +265,38 @@ Steps 2 - 6:  Run PowerShell in the RDP session <br>
 
 # NOTE:  At the end of module, remove all policies.  Delete all the resources created in the module
 
-#Learning Path Module 4: Implementing access management for apps (~90 Minutes)
+# Learning Path 4: Implementing access management for apps (~90 Minutes)(Actual time ~120 Minutes)
 
 ## Lab 17 – Defender for Cloud Apps application discovery and enforcing restrictions (10 Minutes)
 
 ### Exercise 1 - Defender for Cloud Apps discovery<br>
 
 Task 1 - Discovery apps in Defender for Cloud Apps<br>
-Step 1:  Link does not paste correctly in the lab environment, open a new tab in edge.  Type https://security.microsoft.com<br>
+If this is the first time accessing the Cloud App Catalog it will take 3 - 5 minutes to prepare the data <br>
 
 ## Lab 18 – Defender for Cloud Apps Access and Session Policies (20 Minutes)
 
-### Exercise 2 - Setup alerts in Microsoft Defender for Cloud Apps
-	
-Task 1 - Access Microsoft Defender for Cloud Apps and create Conditional Access App Control<br>
-Step 3: If needed expand Cloud Apps in he navigation pane. Step 4: Expand Policies Step 4: Select Policy Management<br>
+### Exercise 1 - Create and test the Conditional Access App Contol policy
 
-Task 3 - Review the Activity in Defender for Cloud Apps<br> 
-Step 3: Select ActivityLog<br>
+Task 3 - Log into Forms and validate that conditional access is monitoring<br>
+Step 5: Log out and back into Microsoft Forms to see warning <br>
+
+### Exercise 2 - Setup alerts in Microsoft Defender for Cloud Apps
+
+Task 1 - Access Microsoft Defender for Cloud Apps and create Conditional Access App Control<br>
+Step 3: If needed expand Cloud Apps in he navigation pane<br>
+Step 4: Expand Policies <br>
+Step 4: Select Policy Management<br>
 
 ## Lab 19 – Register an application (30 Minutes)
 
 ### Exercise 1 - Register an application
 
 Task 2 - Configure platform settings<br>
-You will not make any changes, you are only exploring the options<br>
-Step 6:  Hit the x to close the platform configuration window<br>
-Task 5 - Add a scope<br>
-Step 7:  Populate the fields with the example content<br>
+Step 1: Click All applications then Demo App <br>
+
+Task 3 - Add credentials, certificate and client secret <br>
+Step 1: Click All applications then Demo App <br>
 
 ## Lab 20 – Implement access management for apps (5 Minutes)
 
@@ -302,7 +306,8 @@ Step 7:  Populate the fields with the example content<br>
 
 ### Exercise 1 - Admin Consent
 
-Task 1 - Grant admin consent in App registrations (Skip task, option has been removed<br>
+Task 1 - Grant admin consent in App registrations <br>
+Step 1: Click All applications then Demo App <br>
 
 # NOTE:  At the end of module, remove any policies or security settings.  Delete all the resources created in the module
  
