@@ -30,6 +30,7 @@ Step 4: Select Policy Management<br>
 ### Exercise 1 - Register an application
 
 Task 2 - Configure platform settings<br>
+Step 1: Click All applications then Demo App
 You will not make any changes, you are only exploring the options<br>
 Step 6:  Hit the x to close the platform configuration window<br>
 Task 5 - Add a scope<br>
