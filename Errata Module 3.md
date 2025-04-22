@@ -1,10 +1,12 @@
-# SC-300T00 Microsoft Identity and Access Administrator - Module 3 Errata
+# SC-300T00 Microsoft Identity and Access Administrator - Learning Path 3 Errata
 
 # NOTE:  ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS 1-9, 12-15, 17-26 and 28
 
-# Module 3: Implement an authentication and access management solution (~150 Miuntes)
+# Learnin Path 3: Implement an authentication and access management solution (~150 Miuntes)
 
-## Lab 08 – enable multifactor authentication (15 Minutes)
+# NOTE:  ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS 1-9, 12-15, 17-26 and 28
+
+## Lab 08 – Enable multifactor authentication (15 Minutes)
 
 ### IMPORTANT - An Azure AD Premium license is required for this exercise. - O365 AAD has already been provisioned
 
@@ -42,8 +44,8 @@ Task 4 - Modify your RDP file to support the Microsoft Entra ID login <br>
 Step 3: Ensure you choose just once when opening the file with notepad <br>
 
 Task 6 - Optional testing to explore the Microsoft Entra ID login <br>
-Step 1: User AzureAD\User2-50612341@LODSPRODMCA.onmicrosoft.com not JoniS <br>
-Step 4: User AzureAD\User2-50612341@LODSPRODMCA.onmicrosoft.com not JoniA <br>
+Step 1: User AzureAD User2 not JoniS <br>
+Step 4: User AzureAD User2 not JoniS <br>
 Step 8: You will need to reset AdeleV or AlexW or DiegoS passwords before attempting  <br>
 
 ### Optional Exercise 2 - Login to Linux Virtual Machines in Azure with Microsoft Entra ID
@@ -86,19 +88,14 @@ Task 1 - Create a Key Vault<br>
 Step 1:  Credentials are located on the Resources drop down<br>
 
 Task 2 - Create a Windows Virtual Machine<br>
-Step 2: Type Windows 11 - Press Enter > Select the Window 11 Box > choose Windows 11 Enterprise, version 22H2 from the menu that opens <br>
+Step 2: Type Windows 11 - Press Enter > Select Create in Window 11 Box > Select Windows 11 Enterprise, version 22H2 from the menu that opens <br>
 Step 3: Use the following setting on the Basic tab<br>
 Step 3: You may have to select all sizes first to pick the D2s_v3<br>
 Step 3: Confirm you have a license <br>
 
 Task 5 - Access data with Key Vault secret with PowerShell <br>
 Step 1: After logging in > Select Next > Select Accept <br>
-Steps 2 - 6:  Rum PowerShell in the RDP session <br>
-
-
-Task 5 - Access data with Key Vault secret with PowerShell<br>
-Step 1:  Ensure you have connected via RDP to adminKeyVault <br>
-Step 1:  Select Next > Select Accept <br>
-Step 3: If it returns unable to resolve the name.  Open a PowerShell Prompt.  Use IP config to determine the computer’s IP address.  Replace the address in the CMDLET with the IP address<br>
+Steps 2 - 6:  Run PowerShell in the RDP session <br>
 
 # NOTE:  At the end of module, remove all policies.  Delete all the resources created in the module
+
