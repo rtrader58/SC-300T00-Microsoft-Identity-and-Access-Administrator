@@ -167,13 +167,12 @@ Step 7:  In line 1 of the script replace <custom_domain_name> with Contoso.com
 ### Note if sync does not occur.  On DC1 in Service > Start the Microsoft Azure AD Sync service <br<
 
 # NOTE:  At the end of module, deallocate all the resources created in the module 
-# Module 3: Implement an authentication and access management solution (~150 Miuntes)
+
+# Learnin Path 3: Implement an authentication and access management solution (~150 Miuntes)
 
 # NOTE:  ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS 1-9, 12-15, 17-26 and 28
 
-# Module 3: Implement an authentication and access management solution (~150 Miuntes)
-
-## Lab 08 – enable multifactor authentication (15 Minutes)
+## Lab 08 – Enable multifactor authentication (15 Minutes)
 
 ### IMPORTANT - An Azure AD Premium license is required for this exercise. - O365 AAD has already been provisioned
 
@@ -211,8 +210,8 @@ Task 4 - Modify your RDP file to support the Microsoft Entra ID login <br>
 Step 3: Ensure you choose just once when opening the file with notepad <br>
 
 Task 6 - Optional testing to explore the Microsoft Entra ID login <br>
-Step 1: User AzureAD\User2-50612341@LODSPRODMCA.onmicrosoft.com not JoniS <br>
-Step 4: User AzureAD\User2-50612341@LODSPRODMCA.onmicrosoft.com not JoniA <br>
+Step 1: User AzureAD User2 not JoniS <br>
+Step 4: User AzureAD User2 not JoniS <br>
 Step 8: You will need to reset AdeleV or AlexW or DiegoS passwords before attempting  <br>
 
 ### Optional Exercise 2 - Login to Linux Virtual Machines in Azure with Microsoft Entra ID
@@ -255,18 +254,18 @@ Task 1 - Create a Key Vault<br>
 Step 1:  Credentials are located on the Resources drop down<br>
 
 Task 2 - Create a Windows Virtual Machine<br>
-Step 2: Type Windows 11 - Press Enter > Select the Window 11 Box > choose Windows 11 Enterprise, version 22H2 from the menu that opens <br>
+Step 2: Type Windows 11 - Press Enter > Select Create in Window 11 Box > Select Windows 11 Enterprise, version 22H2 from the menu that opens <br>
 Step 3: Use the following setting on the Basic tab<br>
 Step 3: You may have to select all sizes first to pick the D2s_v3<br>
 Step 3: Confirm you have a license <br>
 
 Task 5 - Access data with Key Vault secret with PowerShell <br>
 Step 1: After logging in > Select Next > Select Accept <br>
-Steps 2 - 6:  Rum PowerShell in the RDP session <br>
+Steps 2 - 6:  Run PowerShell in the RDP session <br>
 
 # NOTE:  At the end of module, remove all policies.  Delete all the resources created in the module
 
-# Module 4: Implementing access management for apps (~90 Minutes)
+#Learning Path Module 4: Implementing access management for apps (~90 Minutes)
 
 ## Lab 17 – Defender for Cloud Apps application discovery and enforcing restrictions (10 Minutes)
 
