@@ -29,15 +29,28 @@ Step 4:  Click on Security info > + Add sign-in method <br>
 Task 1 - Create a Windows Virtual Machine with Azure AD login enabled<br>
 Step 1: Use User 1 for the credentials <br>
 Step 3: Type Windows 11 - Press Enter > Select the Window 11 Box > choose Windows 11 Enterprise, version 22H2 from the menu that opens <br>
+Step 3: You may have to select all sizes first to pick the DC1s_v3<br>
+Step 3: Check I confirm I have an elegible Windows 10/11 license with multi-tenant hosting rights<br>
 
-Use the following setting on the Basic tab<br>
-You may have to select all sizes first to pick the DC1s_v3<br>
+Task 2 - Microsoft Entra ID login for existing Azure Virtual Machines<br>
+Read through - due to permissions you can not make any changes<br>
 
 Task 3 - Update the Virtual Machine to allow the Microsoft Entra ID login<br>
 Step 7:  Select Next > Select Accept <br>
 
 Task 4 - Modify your RDP file to support the Microsoft Entra ID login <br>
 Step 3: Ensure you choose just once when opening the file with notepad <br>
+
+Task 6 - Optional testing to explore the Microsoft Entra ID login <br>
+Step 1: User AzureAD\User2-50612341@LODSPRODMCA.onmicrosoft.com not JoniS <br>
+Step 4: User AzureAD\User2-50612341@LODSPRODMCA.onmicrosoft.com not JoniA <br>
+Step 8: You will need to reset AdeleV or AlexW or DiegoS passwords before attempting  <br>
+
+### Optional Exercise 2 - Login to Linux Virtual Machines in Azure with Microsoft Entra ID
+
+Task 1 - Create a Linux VM with system assigned managed identity <br>
+Step 4: You may have to select all sizes first to pick the D2s_v3<br>
+Step 4: There is no Password > create a Key pair name 
 
 ## Lab 11 - Assign Azure resource roles in Privileged Identity Management (10 Minutes)
 
