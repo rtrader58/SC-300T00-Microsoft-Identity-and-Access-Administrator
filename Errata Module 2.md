@@ -92,12 +92,16 @@ PowerShell was installed in a previous lab you may be able to start at step 4<br
 
 ### Exercise 1 – Configure identity providers
 
-Task 1- Configure Google to be used as an identity provider<br>
 Note:  Create a Gmail account for use in this lab, I recommend something like this<br>
 Initialssc300@gmail.com (FFsc300@gmail.com)<br>
 If the account is taken use a recommended one – Note your username and password<br>
 
-Step 1:  Does not paste – type in manually<br>
+Task 1- Configure Google to be used as an identity provider<br>
+
+### Create a new project:
+
+Step 6: Click Get started
+
 Step 13: Copy and paste the URLs into notepad, paste 1 line at a time do not include the – <br>
 Step 14: Copy the client ID and Secret and paste in notepad<br>
 
