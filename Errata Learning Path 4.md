@@ -16,7 +16,7 @@ If this is the first time accessing the Cloud App Catalog it will take 3 - 5 min
 ### Exercise 1 - Create and test the Conditional Access App Contol policy
 
 Task 3 - Log into Forms and validate that conditional access is monitoring<br>
-Step 5: Log out and back into Microsoft Forms to see warning
+Step 5: Log out and back into Microsoft Forms to see warning <br>
 
 ### Exercise 2 - Setup alerts in Microsoft Defender for Cloud Apps
 
@@ -30,11 +30,10 @@ Step 4: Select Policy Management<br>
 ### Exercise 1 - Register an application
 
 Task 2 - Configure platform settings<br>
-Step 1: Click All applications then Demo App
-You will not make any changes, you are only exploring the options<br>
-Step 6:  Hit the x to close the platform configuration window<br>
-Task 5 - Add a scope<br>
-Step 7:  Populate the fields with the example content<br>
+Step 1: Click All applications then Demo App <br>
+
+Task 3 - Add credentials, certificate and client secret <br>
+Step 1: Click All applications then Demo App <br>
 
 ## Lab 20 – Implement access management for apps (5 Minutes)
 
@@ -44,6 +43,7 @@ Step 7:  Populate the fields with the example content<br>
 
 ### Exercise 1 - Admin Consent
 
-Task 1 - Grant admin consent in App registrations (Skip task, option has been removed) <br>
+Task 1 - Grant admin consent in App registrations <br>
+Step 1: Click All applications then Demo App <br>
 
 # NOTE:  At the end of module, remove any policies or security settings.  Delete all the resources created in the module
