@@ -4,16 +4,16 @@
 
 # NOTE:  At the end of each module of labs, delete all the resources created in the module
 
-# Learning Path 4: Implementing access management for apps (~90 Minutes) (Actual time ~120 Minutes)
+# Learning Path 4: Implementing access management for apps (~90 Minutes)(Actual time ~120 Minutes)
 
-## Lab 17 – Defender for Cloud Apps application discovery and enforcing restrictions (10 Minutes)
+## Lab 17 – Defender for Cloud Apps application discovery and enforcing restrictions (~10 Minutes)
 
 ### Exercise 1 - Defender for Cloud Apps discovery<br>
 
 Task 1 - Discovery apps in Defender for Cloud Apps<br>
 If this is the first time accessing the Cloud App Catalog it will take 3 - 5 minutes to prepare the data <br>
 
-## Lab 18 – Defender for Cloud Apps Access and Session Policies (20 Minutes)
+## Lab 18 – Defender for Cloud Apps Access and Session Policies (~20 Minutes)
 
 ### Exercise 1 - Create and test the Conditional Access App Contol policy
 
@@ -27,7 +27,7 @@ Step 3: If needed expand Cloud Apps in the navigation pane<br>
 Step 4: Expand Policies <br>
 Step 4: Select Policy Management<br>
 
-## Lab 19 – Register an application (30 Minutes)
+## Lab 19 – Register an application (~30 Minutes)
 
 ### Exercise 1 - Register an application
 
@@ -37,11 +37,11 @@ Step 1: Click All applications then Demo App <br>
 Task 3 - Add credentials, certificate and client secret <br>
 Step 1: Click All applications then Demo App <br>
 
-## Lab 20 – Implement access management for apps (5 Minutes)
+## Lab 20 – Implement access management for apps (~5 Minutes)
 
 ## No Errata
 
-## Lab 21 – Grant tenant-wide admin consent to an application (15 Minutes)
+## Lab 21 – Grant tenant-wide admin consent to an application (~15 Minutes)
 
 ### Exercise 1 - Admin Consent
 
