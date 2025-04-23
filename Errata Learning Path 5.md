@@ -33,11 +33,7 @@ Step 8: Select the name you chose to call your ToU document <br>
 
 ## Lab 27 – Microsoft Sentinel Kusto Queries for Azure data sources (30 Minutes)
 
-### Exercise 1 - Configure Microsoft Sentinel for Kusto Queries
-
-Task 3 - Run Kusto query on User activity<br>
-Step 3:  Search for User IDs<br>
-Step 7:  Search for Anomalous sign-in location by user account and authenticating application<br>
+### No Errata
 
 ## Lab 28 – Monitor and manage security posture with Identity Secure Score (15 Minutes)
 
