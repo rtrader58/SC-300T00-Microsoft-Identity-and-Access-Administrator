@@ -8,4 +8,4 @@ Interface Technical Training
 
 If you find a step is not correct in the errata please add it to issues or a pull request and we will research and update the appropriate errata.
 
-### Optional - Lab 07 .
+### Optional - Lab 07  - Cannot be accomplished in the current environment - requires creating a trial subscription.
