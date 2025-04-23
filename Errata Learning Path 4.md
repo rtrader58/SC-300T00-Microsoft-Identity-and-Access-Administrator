@@ -4,7 +4,7 @@
 
 # NOTE:  At the end of each module of labs, delete all the resources created in the module
 
-# Learning Path 4: Implementing access management for apps (~90 Minutes)(Actual time ~120 Minutes)
+# Learning Path 4: Implementing access management for apps (~90 Minutes) (Actual time ~120 Minutes)
 
 ## Lab 17 – Defender for Cloud Apps application discovery and enforcing restrictions (10 Minutes)
 
@@ -23,7 +23,7 @@ Step 5: Log out and back into Microsoft Forms to see warning <br>
 ### Exercise 2 - Setup alerts in Microsoft Defender for Cloud Apps
 
 Task 1 - Access Microsoft Defender for Cloud Apps and create Conditional Access App Control<br>
-Step 3: If needed expand Cloud Apps in he navigation pane<br>
+Step 3: If needed expand Cloud Apps in the navigation pane<br>
 Step 4: Expand Policies <br>
 Step 4: Select Policy Management<br>
 
