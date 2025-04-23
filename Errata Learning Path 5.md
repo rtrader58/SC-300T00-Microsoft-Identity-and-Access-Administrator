@@ -6,10 +6,10 @@
 
 ## Lab 22 – Create and manage a catalog of resources in Azure AD entitlement management (15 Minutes)
 
-Task 5 - Create Access reviews for guest users
-Step 4: Select Teams + Groups then All Microsoft 365 groups with guests
-Step 5: Verify Guest users only is selected
-Step 9: Select weekly
+Task 5 - Create Access reviews for guest users <br>
+Step 4: Select Teams + Groups then All Microsoft 365 groups with guests <br>
+Step 5: Verify Guest users only is selected <br>
+Step 9: Select weekly <br>
 
 ## Lab 23 – Add terms of use and acceptance reporting (20 Minutes)
 
@@ -42,7 +42,7 @@ Step 8: Select the name you chose to call your ToU document <br>
 ### Exercise 1 - Using Identity Secure Score to monitor and manage identity security posture
 
 Task 2 - Execute an improvement action<br>
-Replace steps 1 - with the following
+Replace steps 1 - with the following <br>
 Step 1:  Select Protect all users with a user risk policy<br>
 "Enable Microsoft Entra ID Identity Protection sign in risk polices" should read "Start your Defender for identity ..."<br>
 Step 3: Portal does not open in new tab.  Browse to the following Identities > Protection > Identity Protection > Sign-in Risk Policy<br>
