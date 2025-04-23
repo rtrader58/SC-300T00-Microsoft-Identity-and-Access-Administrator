@@ -6,7 +6,7 @@
 
 # NOTE:  ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS 1-9, 12-15, 17-26 and 28
 
-## Lab 08 – Enable multifactor authentication (15 Minutes)
+## Lab 08 – Enable multifactor authentication (~15 Minutes)
 
 ### IMPORTANT - An Azure AD Premium license is required for this exercise. - O365 AAD has already been provisioned
 
@@ -17,14 +17,14 @@ Step 5:  Select "Select resources" not None - Click Select - Choose Office 365<b
 Step 6:  Select Network - Choose yes on slider<br>
 Step 9:  Typo - should read as Ensure that Require all the selected controls is selected<br>
 
-## Lab 09 – Configure and deploy self-service password reset (15 Minutes)
+## Lab 09 – Configure and deploy self-service password reset (~15 Minutes)
 
 ### Exercise 1 - Create a group with SSPR enabled and add users to it
 
 Task 3 - Register for SSPR with Alex<br>
 Step 4:  Click on Security info > + Add sign-in method <br>
 
-## Lab 10 – Azure AD Authentication for Windows and Linux Virtual Machines (30 Minutes)
+## Lab 10 – Azure AD Authentication for Windows and Linux Virtual Machines (~30 Minutes)
 
 ### Exercise 1 - Login to Windows Virtual Machines in Azure with Azure AD
 
@@ -54,7 +54,7 @@ Task 1 - Create a Linux VM with system assigned managed identity <br>
 Step 4: You may have to select all sizes first to pick the D2s_v3<br>
 Step 4: There is no Password > create a Key pair name <br>
 
-## Lab 11 - Assign Azure resource roles in Privileged Identity Management (10 Minutes)
+## Lab 11 - Assign Azure resource roles in Privileged Identity Management (~10 Minutes)
 
 ### Exercise 1 - PIM with Azure resources
 Task 1 - Assign Azure resource roles<br>
@@ -65,14 +65,14 @@ Skip steps 8 - 16 <br>
 
 ### No Errata
 
-## Lab 13 – Implement and test a conditional access policy (30 Minutes)
+## Lab 13 – Implement and test a conditional access policy (~30 Minutes)
 
 ### Exercise 1 - Set a conditional access policy to block DebraB from accessing Sway
 
 Task 1 -- Confirm DebraB has access to Sway <br>
 Debra's password is the User password not the Admin password <br>
 
-## Lab 14 – Enable sign in and user risk policies (10 Minutes)
+## Lab 14 – Enable sign in and user risk policies (~10 Minutes)
 
 ### No Errata 
 
@@ -80,7 +80,7 @@ Debra's password is the User password not the Admin password <br>
 
 ### No Errata
 
-## Lab 16 – Using Azure Key Vault for Managed Identities (20 Minutes)
+## Lab 16 – Using Azure Key Vault for Managed Identities (~20 Minutes)
 
 ### Exercise 1 - Use Azure Key Vault to manage Virtual Machine identities
 
