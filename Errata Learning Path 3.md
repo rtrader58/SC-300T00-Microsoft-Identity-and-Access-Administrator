@@ -1,6 +1,6 @@
 # SC-300T00 Microsoft Identity and Access Administrator - Learning Path 3 Errata
 
-# NOTE:  ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS 1-9, 12-15, 17-26 and 28
+# NOTE: ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS 1-9, 12-15, 17-26 and 28
 
 # Learnin Path 3: Implement an authentication and access management solution (~150 Miuntes)
 
