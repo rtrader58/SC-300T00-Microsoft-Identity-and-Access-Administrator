@@ -20,7 +20,7 @@ Step 3:  Use the user password provided in the Resources drop down - requires MF
 ### Exercise 4 - Bulk import of users
 
 Task 1 - Bulk operations for creating users with a .csv file<br>
-Office need to rearmed before task.  Open an elevated command prompt and go to the Program Files\Microsoft Office\Office16 folder<br>
+Office needs to be rearmed before task.  Open an elevated command prompt and go to the Program Files\Microsoft Office\Office16 folder<br>
 Type ospprearm.exe and then press Enter. If rearm succeeds, the following message displays: "Microsoft Office rearm successful."<br>
 
 Step 6:  After opening the .csv file paste your tenant name from the resources tab in the lab guide at the bottom of the file<br>
