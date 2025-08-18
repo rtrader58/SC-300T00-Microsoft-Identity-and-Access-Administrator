@@ -1,9 +1,10 @@
 # Additional Labs and Creating/Canceling an Azure Trial subscription
 
-## Additional Labs
+### Microsoft Master Repository - Lab 7 Instructions
 
-Additional labs located here - https://github.com/rtrader58/Microsoft-Master-AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop <br>
-These labs will require the use of an Azure Trial Subscription <br>
+https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator<br>
+
+You will need to download the Allfiles to your local computer to accomplish the lab <br>
 
 ### Create a disposable Microsoft Account.  (A trial subscription can on be obtained once per Microsoft Account)
 
