@@ -26,9 +26,10 @@ a.	Write your password down so you don’t forget it this week<br>
 
 1. Go to the following link - https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account <br>
 2. Click on Try Azure for free <br>
-3. Pick the Microsoft Account you created in step 1 <br>
+3. Pick the Microsoft Account you created in previous step <br>
 4. Follow the remaining steps to create the subscription <br>
 
 ### Cancelling an Azure Trial Subscription
 
-Link to cancel and delete an Azure Trial Subscription - https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/cancel-azure-subscription <br>
+ Navigate on your Subscription in the Azure home page <br>
+ Click Cancel subscription - follow the prompts to cancel <br>
