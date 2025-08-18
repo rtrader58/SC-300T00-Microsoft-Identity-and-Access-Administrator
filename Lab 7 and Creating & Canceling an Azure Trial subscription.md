@@ -1,4 +1,4 @@
-# Additional Labs and Creating/Canceling an Azure Trial subscription
+# Lab 7 and Creating/Canceling an Azure Trial subscription
 
 ### Microsoft Master Repository - Lab 7 Instructions
 
