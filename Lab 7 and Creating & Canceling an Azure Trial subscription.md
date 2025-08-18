@@ -1,10 +1,3 @@
-# Lab 7 and Creating/Canceling an Azure Trial subscription
-
-### Microsoft Master Repository - Lab 7 Instructions
-
-https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator<br>
-
-You will need to download the Allfiles to your local computer to accomplish the lab <br>
 
 ### Create a disposable Microsoft Account.  (A trial subscription can on be obtained once per Microsoft Account)
 
@@ -28,6 +21,14 @@ a.	Write your password down so you don’t forget it this week<br>
 2. Click on Try Azure for free <br>
 3. Pick the Microsoft Account you created in previous step <br>
 4. Follow the remaining steps to create the subscription <br>
+
+# Lab 7 and Creating/Canceling an Azure Trial subscription
+
+### Microsoft Master Repository - Lab 7 Instructions
+
+https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator<br>
+
+You will need to download the Allfiles to your local computer to accomplish the lab <br>
 
 ### Cancelling an Azure Trial Subscription
 
