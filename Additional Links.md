@@ -2,6 +2,7 @@ Interface Technical Training - http://www.interfacett.com<br>
 Microsoft Certified: Cybersecurity Architect Expert - https://learn.microsoft.com/en-us/certifications/cybersecurity-architect-expert/<br>
 SC-300 Exam Objectives - https://docs.microsoft.com/en-us/certifications/exams/sc-300<br>
 SC-300 Exam study guide - https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-300 <br>
+SC-300 Exam Prep Videos - https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-sc-300-implement-and-manage-user-identities <br>
 Interface Technical Training Exam Promo - https://www.interfacett.com/microsoft-certification-exams/<br>
 Lab environment - https://interfacett.learnondemand.net<br>
 Microsoft Master Github lab repository - https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator<br>
