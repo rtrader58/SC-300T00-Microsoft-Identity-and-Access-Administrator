@@ -104,12 +104,12 @@ Task 1- Configure Google to be used as an identity provider<br>
 
 Step 5: Includes steps 6 and 7: Click Get started > Create an App Name > Select Next > Select External > add your gmail > Click Next > Select I agrree > Click Continue > Click Create<br>
 Step 8: Click Branding > Click + Add domain > follow steps 9 -11 > click Save<br>
-Step 11: Click Overview > Click Create OAth Client <br>
-Step 13:Click +Add URI Copy and paste the URLs into notepad, paste 1 line at a time do not include the – <br>
+Step 11 and 12: Click Overview > Click Create OAth Client <br>
+Step 13: Click +Add URI Copy and paste the URLs into notepad, paste 1 line at a time do not include the – <br>
 Step 14: Copy the client ID and Secret and paste in notepad<br>
 
 Task 2 - Add a test user<br>
-Step 2: Select Audience > Select + Test User<br>
+Step 2: Select Audience > Select + Add User<br>
 
 ### Exercise 2 - Configure Azure to work with an External identity provider
 
