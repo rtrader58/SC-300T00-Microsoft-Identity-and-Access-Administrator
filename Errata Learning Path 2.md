@@ -168,7 +168,6 @@ Step 7:  In line 1 of the script replace <custom_domain_name> with Contoso.com
 
 ### Note if sync does not occur.  On DC1 in Service > Start the Microsoft Azure AD Sync service <br<
 
-# NOTE:  At the end of module, deallocate all the resources created in the module
-
+NOTE: ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS
  
 
