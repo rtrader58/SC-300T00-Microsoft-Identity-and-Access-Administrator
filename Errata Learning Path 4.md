@@ -48,4 +48,4 @@ Step 1: Click All applications then Demo App <br>
 Task 1 - Grant admin consent in App registrations <br>
 Step 1: Click All applications then Demo App <br>
 
-# NOTE:  At the end of module, remove any policies or security settings.  Delete all the resources created in the module
+# NOTE:  NOTE: ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS
