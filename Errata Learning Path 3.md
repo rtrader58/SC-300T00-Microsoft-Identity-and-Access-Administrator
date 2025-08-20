@@ -97,5 +97,5 @@ Task 5 - Access data with Key Vault secret with PowerShell <br>
 Step 1: After logging in > Select Next > Select Accept <br>
 Steps 2 - 6:  Run PowerShell in the RDP session <br>
 
-# NOTE:  At the end of module, remove all policies.  Delete all the resources created in the module
+# NOTE:  ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS
 
