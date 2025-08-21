@@ -44,4 +44,4 @@ Step 8: Select the name you chose to call your ToU document <br>
 Task 2 - Execute an improvement action<br>
 Step 3: Portal does not open in correctly in new tab.  Browse to the following Entra ID > Identiy Secure Score > Identity Protection > Sign-in Risk Policy<br>
 
-# NOTE:  At the end of the module, you have completed all the labs. Clicking Submit will end and delete you lab enviorment 
+# NOTE:  At the end of the module, you have completed all the labs. Clicking Submit will end and delete you lab enviorment - Disregard the grading as we are not Academia.
