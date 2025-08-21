@@ -42,8 +42,6 @@ Step 8: Select the name you chose to call your ToU document <br>
 ### Exercise 1 - Using Identity Secure Score to monitor and manage identity security posture
 
 Task 2 - Execute an improvement action<br>
-Step 1:  Select Protect all users with a user risk policy<br>
-"Enable Microsoft Entra ID Identity Protection sign in risk polices" should read "Start your Defender for identity ..."<br>
-Step 3: Portal does not open in new tab.  Browse to the following Identities > Protection > Identity Protection > Sign-in Risk Policy<br>
+Step 3: Portal does not open in correctly in new tab.  Browse to the following Entra ID > Identiy Secure Score > Identity Protection > Sign-in Risk Policy<br>
 
-# NOTE:  At the end of the module, remove any policies or security settings.  Delete all the resources created in the module
+# NOTE:  At the end of the module, you have completed all the labs. Clicking Submit will end and delete you lab enviorment 
