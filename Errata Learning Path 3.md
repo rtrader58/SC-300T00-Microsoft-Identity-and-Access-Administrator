@@ -46,7 +46,7 @@ Step 3: Ensure you choose just once when opening the file with notepad <br>
 Task 6 - Optional testing to explore the Microsoft Entra ID login <br>
 Step 1: User AzureAD User2 not JoniS <br>
 Step 4: User AzureAD User2 not JoniS <br>
-Step 8: You will need to reset AdeleV or AlexW or DiegoS passwords before attempting  <br>
+Step 8: Log on with Joseph-xxxxxx (replace xxxxx with the numbers in your user2 account) - you may have to change the password before attempting  <br>
 
 ### Optional Exercise 2 - Login to Linux Virtual Machines in Azure with Microsoft Entra ID
 
