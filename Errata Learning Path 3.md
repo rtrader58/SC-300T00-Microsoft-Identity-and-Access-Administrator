@@ -92,14 +92,17 @@ Task 1 - Create a Key Vault<br>
 Step 1:  Credentials are located on the Resources drop down<br>
 
 Task 2 - Create a Windows Virtual Machine<br>
-Step 2: Type Windows 11 - Press Enter > Select Create in Window 11 Box > Select Windows 11 Enterprise, version 22H2 from the menu that opens <br>
+Step 2: Type Windows 11 - Press Enter > Select Create in Window 11 Box > Select Windows 11 Enterprise, version 23H2 from the menu that opens <br>
 Step 3: Use the following setting on the Basic tab<br>
 Step 3: You may have to select all sizes first to pick the D2s_v3<br>
 Step 3: Confirm you have a license <br>
 
+Task 3 - Create a secret <br>
+Step 5: Leave the Name and Secret as is <br>
+
 Task 5 - Access data with Key Vault secret with PowerShell <br>
 Step 1: After logging in > Select Next > Select Accept <br>
-Steps 2 - 6:  Run PowerShell in the RDP session <br>
+Steps 2 - 6:  PowerShell in the RDP session - you may have to paste into notepad first <br>
 
 # NOTE:  ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS
 
