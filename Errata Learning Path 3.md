@@ -61,6 +61,10 @@ Task 1 - Assign Azure resource roles<br>
 Step 1: Credentials are located under Resources tab<br>
 Skip steps 8 - 16 <br>
 
+Task 2 - Update or remove an existing resource role assignment <br>
+Step 5: On the Active assignments tab, in the Action column, review the available options <br>
+Step 6: Under LOD Contributer Select User1-xxxxxx, Select Remove <br>
+
 ## Lab 12 – Manage Azure AD smart lockout values (5 Minutes)
 
 ### No Errata
