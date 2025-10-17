@@ -20,6 +20,7 @@ Continued Task 1 - Create the Conditional Access Policy <br>
 Step 8: Select the name you chose to call your ToU document <br>
 
 ## Lab 24 – Manage the lifecycle of external users in Azure AD identity Governance settings (5 Minutes)
+Steps 3 and 4 - the settings you're looking for are under the Entitlement Management category in the Control Configurations blade.
 
 ### No Errata
 
