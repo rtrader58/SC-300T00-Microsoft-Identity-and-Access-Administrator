@@ -20,9 +20,16 @@ Continued Task 1 - Create the Conditional Access Policy <br>
 Step 8: Select the name you chose to call your ToU document <br>
 
 ## Lab 24 – Manage the lifecycle of external users in Azure AD identity Governance settings (5 Minutes)
-Steps 3 and 4 - the settings you're looking for are under the Entitlement Management category in the Control Configurations blade.
 
+### Exercise 1 - Microsoft Entra Identity Governance settings
 
+Task 1 - Manage the lifecycle of external users in Microsoft Entra Identity Governance settings <br>
+
+Step 3: In the left navigation menu, under Entitlement management, select Control configuration <br>
+Step 4: In the Lifecycle of external users box, select view settings <br>
+Step 5: In the lifecycle of external users section, review the different settings for external users <br>
+Step 6: When an external user loses their last assignment to any access packages, if you want to block them from signing in to this directory, check the box Block external user from signing in to this directory <br>
+Step 8: Once an external user loses their last assignment to any access packages, if you want to remove their guest user account in this directory, Check the box Remove external user <br>
 
 ## Lab 25 – Create Access Reviews for Internal and External Users (5 Minutes)
 
