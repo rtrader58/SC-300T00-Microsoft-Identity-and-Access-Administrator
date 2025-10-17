@@ -2,6 +2,8 @@
 
 # NOTE: ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS 1-9, 12-15, 17-26 and 28
 
+## Note: Credentials are located in the Resources dropdown
+
 # Learning Path 5: Plan and implement an identity governance strategy (~130 Minutes)
 
 ## Lab 22 – Create and manage a catalog of resources in Azure AD entitlement management (15 Minutes)
@@ -43,7 +45,10 @@ Step 8: Once an external user loses their last assignment to any access packages
 
 ## Lab 27 – Microsoft Sentinel Kusto Queries for Azure data sources (30 Minutes)
 
-### No Errata
+### Exercise 1 - Configure Microsoft Sentinel for Kusto Queries
+
+Task 1 - Create a Microsoft Sentinel workspace<br>
+Step 9: Browse back to Sentinel, click + Create, select the Workspace you created, click Add <br>
 
 ## Lab 28 – Monitor and manage security posture with Identity Secure Score (15 Minutes)
 
