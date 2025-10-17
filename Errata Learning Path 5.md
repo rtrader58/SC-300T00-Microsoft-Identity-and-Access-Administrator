@@ -55,6 +55,7 @@ Step 9: Browse back to Sentinel, click + Create, select the Workspace you create
 ### Exercise 1 - Using Identity Secure Score to monitor and manage identity security posture
 
 Task 2 - Execute an improvement action<br>
+Skip steps 1 and 2 <BR>
 Step 3: Portal does not open in correctly in new tab.  Browse to the following Entra ID > Identiy Secure Score > Identity Protection > Sign-in Risk Policy<br>
 
 # NOTE:  At the end of the module, you have completed all the labs. Clicking Submit will end and delete you lab enviorment - Disregard the grading as we are not Academia.
