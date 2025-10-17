@@ -310,14 +310,14 @@ Step 1: Click All applications then Demo App <br>
 
 # NOTE:  At the end of module, remove any policies or security settings.  Delete all the resources created in the module
  
-# Module 5:  Plan and implement an identity governance strategy (~130 Minutes)
+# Learning Path 5: Plan and implement an identity governance strategy (~130 Minutes)
 
 ## Lab 22 – Create and manage a catalog of resources in Azure AD entitlement management (15 Minutes)
 
-Task 5 - Create Access reviews for guest users
-Step 4: Select Teams + Groups then All Microsoft 365 groups with guests
-Step 5: Verify Guest users only is selected
-Step 9: Select weekly
+Task 5 - Create Access reviews for guest users <br>
+Step 4: Select Teams + Groups then All Microsoft 365 groups with guests <br>
+Step 5: Verify Guest users only is selected <br>
+Step 9: Select weekly <br>
 
 ## Lab 23 – Add terms of use and acceptance reporting (20 Minutes)
 
@@ -329,7 +329,15 @@ Step 8: Select the name you chose to call your ToU document <br>
 
 ## Lab 24 – Manage the lifecycle of external users in Azure AD identity Governance settings (5 Minutes)
 
-### No Errata
+### Exercise 1 - Microsoft Entra Identity Governance settings
+
+Task 1 - Manage the lifecycle of external users in Microsoft Entra Identity Governance settings <br>
+
+Step 3: In the left navigation menu, under Entitlement management, select Control configuration <br>
+Step 4: In the Lifecycle of external users box, select view settings <br>
+Step 5: In the lifecycle of external users section, review the different settings for external users <br>
+Step 6: When an external user loses their last assignment to any access packages, if you want to block them from signing in to this directory, check the box Block external user from signing in to this directory <br>
+Step 8: Once an external user loses their last assignment to any access packages, if you want to remove their guest user account in this directory, Check the box Remove external user <br>
 
 ## Lab 25 – Create Access Reviews for Internal and External Users (5 Minutes)
 
@@ -343,16 +351,17 @@ Step 8: Select the name you chose to call your ToU document <br>
 
 ## Lab 27 – Microsoft Sentinel Kusto Queries for Azure data sources (30 Minutes)
 
-### No Errata
+### Exercise 1 - Configure Microsoft Sentinel for Kusto Queries
+
+Task 1 - Create a Microsoft Sentinel workspace<br>
+Step 9: Browse back to Sentinel, click + Create, select the Workspace you created, click Add <br>
 
 ## Lab 28 – Monitor and manage security posture with Identity Secure Score (15 Minutes)
 
 ### Exercise 1 - Using Identity Secure Score to monitor and manage identity security posture
 
 Task 2 - Execute an improvement action<br>
-Replace steps 1 - with the following
-Step 1:  Select Protect all users with a user risk policy<br>
-"Enable Microsoft Entra ID Identity Protection sign in risk polices" should read "Start your Defender for identity ..."<br>
-Step 3: Portal does not open in new tab.  Browse to the following Identities > Protection > Identity Protection > Sign-in Risk Policy<br>
+Skip steps 1 and 2 <BR>
+Step 3: Portal does not open in correctly in new tab.  Browse to the following Entra ID > Identiy Secure Score > Identity Protection > Sign-in Risk Policy<br>
 
 # NOTE:  At the end of the module, remove any policies or security settings.  Delete all the resources created in the module
