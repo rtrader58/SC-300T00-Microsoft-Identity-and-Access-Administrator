@@ -80,6 +80,11 @@ Assign a managed identity access to a resource using the Azure portal - Azure AD
 Understand Azure role definitions - Azure RBAC | Microsoft Docs - https://learn.microsoft.com/en-us/azure/role-based-access-control/role-definitions  <br>
 Grant permission to applications to access an Azure key vault using Azure RBAC | Microsoft Docs - https://learn.microsoft.com/en-us/azure/key-vault/general/rbac-guide?tabs=azure-cli  <br>
 Create and access a secret in Azure Key Vault - https://learn.microsoft.com/en-us/azure/key-vault/secrets/quick-create-portal  <br>
+What is Global Secure Access? - https://learn.microsoft.com/en-us/entra/global-secure-access/overview-what-is-global-secure-access <br>
+Global Secure Access documentation - https://learn.microsoft.com/en-us/entra/global-secure-access/ <br>
+Learn about Microsoft Entra Private Access - https://learn.microsoft.com/en-us/entra/global-secure-access/concept-private-access <br>
+Learn about Microsoft Entra Internet Access for all apps - https://learn.microsoft.com/en-us/entra/global-secure-access/concept-internet-access <br>
+Universal Conditional Access through Global Secure Access - https://learn.microsoft.com/en-us/entra/global-secure-access/concept-universal-conditional-access <br>
 ### Module 4:  Implement Access Management for Apps
 What is Microsoft Identity Platform - https://learn.microsoft.com/en-us/entra/identity-platform/ <br>
 MDCA ebook - https://go.microsoft.com/fwlink/p/?LinkID=2079728&clcid=0x409&culture=en-us&country=US   <br>
