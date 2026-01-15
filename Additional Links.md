@@ -85,6 +85,7 @@ Global Secure Access documentation - https://learn.microsoft.com/en-us/entra/glo
 Learn about Microsoft Entra Private Access - https://learn.microsoft.com/en-us/entra/global-secure-access/concept-private-access <br>
 Learn about Microsoft Entra Internet Access for all apps - https://learn.microsoft.com/en-us/entra/global-secure-access/concept-internet-access <br>
 Universal Conditional Access through Global Secure Access - https://learn.microsoft.com/en-us/entra/global-secure-access/concept-universal-conditional-access <br>
+Workload identities - https://learn.microsoft.com/en-us/entra/workload-id/workload-identities-overview <br>
 ### Module 4:  Implement Access Management for Apps
 What is Microsoft Identity Platform - https://learn.microsoft.com/en-us/entra/identity-platform/ <br>
 MDCA ebook - https://go.microsoft.com/fwlink/p/?LinkID=2079728&clcid=0x409&culture=en-us&country=US   <br>
