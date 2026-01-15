@@ -78,7 +78,19 @@ Debra's password is the User password not the Admin password <br>
 
 ## Lab 14 – Enable sign in and user risk policies (~10 Minutes)
 
-### No Errata 
+### Exercise 1 - Enable User risk policy
+Replace Task 1 - Configure the policy and Task 2 - Enable Sign-in risk policy with the following steps: <br>
+Step 1: Sign in to the https://entra.microsoft.com using a Global administrator account <br>
+Step 2: Open the portal menu and then select Entra ID <br>
+Step 3: On menu, under ID Protection, select Dashboard.Step 4: In the Identity protection Dashboard, in the left navigation, select Condtional Access
+Step 5: Click + New Policy - name the policy User Risk <br>
+Step 6: Under Assignments, select All users and review the available options <br>
+Step 7: Select arget resources > Select All resources (formerly All cloud apps) <br>
+Step 7: Select Conditions > Under User risk, select Configure - Yes > Check Low > Click Done <br>
+Step 8: Select Conditions > Under Sign-in risk, select Configure - Yes > Check High > Click Done <br>
+Step 9: Under Access controls select under Grant 0 controls selected > select Block access <br>
+Step 10: Select the Require multi-factor authentication and Require password change check boxes > Click Select <br>
+Step 11: Enable Policy > Report Only > click Create <br>
 
 ## Lab 15 – Configure an Azure AD multi-factor authentication registration policy (10 Minutes)
 
