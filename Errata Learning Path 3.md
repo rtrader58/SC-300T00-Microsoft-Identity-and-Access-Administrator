@@ -86,7 +86,7 @@ Step 3: On menu, under ID Protection, select Dashboard.Step 4: In the Identity p
 Step 5: Click + New Policy - name the policy User Risk <br>
 Step 6: Under Assignments, select All users and review the available options <br>
 Step 7: Select arget resources > Select All resources (formerly All cloud apps) <br>
-Step 7: Select Conditions > Under User risk, select Configure - Yes > Check Low > Click Done <br>
+Step 7: Select Conditions > Under User risk, select Configure - Yes > Check Low, Mediun and High > Click Done <br>
 Step 8: Select Conditions > Under Sign-in risk, select Configure - Yes > Check High > Click Done <br>
 Step 9: Under Access controls select under Grant 0 controls selected > select Block access <br>
 Step 10: Select the Require multi-factor authentication and Require password change check boxes > Click Select <br>
