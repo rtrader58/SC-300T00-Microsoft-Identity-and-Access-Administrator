@@ -53,7 +53,8 @@ Debra's password is the User password not the Admin password <br>
 Replace Task 1 - Configure the policy and Task 2 - Enable Sign-in risk policy with the following steps: <br>
 Step 1: Sign in to the https://entra.microsoft.com using a Global administrator account <br>
 Step 2: Open the portal menu and then select Entra ID <br>
-Step 3: On menu, under ID Protection, select Dashboard.Step 4: In the Identity protection Dashboard, in the left navigation, select Condtional Access <br>
+Step 3: On menu, under ID Protection, select Dashboard.<br>
+Step 4: In the Identity protection Dashboard, in the left navigation, select Condtional Access <br>
 Step 5: Click + New Policy - name the policy User Risk <br>
 Step 6: Under Assignments, select All users and review the available options <br>
 Step 7: Select arget resources > Select All resources (formerly All cloud apps) <br>
