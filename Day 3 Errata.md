@@ -19,9 +19,11 @@ If this is the first time accessing the Cloud App Catalog it will take 3 - 5 min
 
 Task 3 - Log into Forms and validate that conditional access is monitoring<br>
 Step 5: Log out and back into Microsoft Forms to see warning <br>
+Do not continue until you see the warning, you may have to log out and in multiple times<br>
 
 ### Exercise 2 - Setup alerts in Microsoft Defender for Cloud Apps
 
+Before continuing close the browser window with the Defender Portal being displayed. The browse back to the Defender Portal <BR>
 Task 1 - Access Microsoft Defender for Cloud Apps and create Conditional Access App Control<br>
 Step 3: If needed expand Cloud Apps in the navigation pane<br>
 Step 4: Expand Policies <br>
