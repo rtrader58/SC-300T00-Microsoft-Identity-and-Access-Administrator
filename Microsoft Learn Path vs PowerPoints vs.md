@@ -45,7 +45,7 @@ Lab 12 – Manage Azure Entra smart lockout values (5 Minutes)<br>
 Lab 13 – Implement and test a conditional access policy (30 Minutes)<br>
 Lab 14 – Enable sign in and user risk policies (10 Minutes)<br>
 Lab 15 – Configure an Azure Entra multi-factor authentication registration policy (10 Minutes)<br>
-Lab 16 – Using Azure Key Vault for Managed Identities (20 Minutes)<br>
+Lab 16 – Using Azure Key Vault for Managed Identities (35 Minutes)<br>
 
 ## Learning Path 4: Implement Access Management for Apps - https://learn.microsoft.com/en-us/training/paths/implement-access-management-for-apps/
 
