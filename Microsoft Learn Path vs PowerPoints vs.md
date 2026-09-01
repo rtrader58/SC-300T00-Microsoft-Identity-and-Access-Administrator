@@ -35,7 +35,7 @@ Plan, implement, and administer Conditional Access - https://learn.microsoft.com
 Manage Azure Entra Identity Protection - https://learn.microsoft.com/en-us/training/modules/manage-azure-active-directory-identity-protection/<br>
 Implement access management for Azure resources - https://learn.microsoft.com/en-us/training/modules/implement-access-management-for-azure-resources/<br>
 
-### Labs - Implement an authentication and access management solution (~150 Miuntes)
+### Labs - Implement an authentication and access management solution (~165 Miuntes)
 
 Lab 08 – enable Azure Entra multifactor authentication (15 Minutes)<br>
 Lab 09 – Configure and deploy self-service password reset (15 Minutes)<br>
