@@ -1,6 +1,6 @@
 # SC-300T00 Microsoft Identity and Access Administrator - Learning Path 3 Errata
 # NOTE: ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS 1-9, 12-15, 17-26 and 28
-# Learnin Path 3: Implement an authentication and access management solution (~150 Miuntes)
+# Learnin Path 3: Implement an authentication and access management solution (~165 Miuntes)
 # NOTE:  ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS 1-9, 12-15, 17-26 and 28
 ## Lab 08 – Enable multifactor authentication (~15 Minutes)
 ### IMPORTANT - An Azure AD Premium license is required for this exercise. - O365 AAD has already been provisioned
@@ -65,7 +65,7 @@ Step 10: Select the Require multi-factor authentication and Require password cha
 Step 11: Enable Policy > Report Only > click Create <br>
 ## Lab 15 – Configure an Azure AD multi-factor authentication registration policy (10 Minutes)
 ### No Errata
-## Lab 16 – Using Azure Key Vault for Managed Identities (~20 Minutes)
+## Lab 16 – Using Azure Key Vault for Managed Identities (~35 Minutes)
 ### Exercise 1 - Use Azure Key Vault to manage Virtual Machine identities
 Task 1 - Create a Key Vault<br>
 Step 1:  Credentials are located on the Resources drop down<br>
@@ -76,10 +76,8 @@ Step 3: You may have to select all sizes first to pick the D2s_v3<br>
 Step 3: Confirm you have a license <br>
 Task 3 - Create a secret <br>
 Step 5: Leave the Name and Secret as is <br>
-
 Task 5 - Access data with Key Vault secret with PowerShell <br>
 Step 1: After logging in > Select Next > Select Accept <br>
 Steps 2 - 6:  PowerShell in the RDP session - you may have to paste into notepad first <br>
-
 # NOTE:  ENSURE YOU SELECT SAVE WHEN YOU FINISH THE SELECTED LABS
 
