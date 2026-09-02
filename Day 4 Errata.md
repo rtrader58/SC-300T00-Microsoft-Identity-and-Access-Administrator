@@ -46,9 +46,9 @@ Step 8: Once an external user loses their last assignment to any access packages
 ## Lab 27 – Microsoft Sentinel Kusto Queries for Azure data sources (30 Minutes)
 
 ### Exercise 1 - Configure Microsoft Sentinel for Kusto Queries
-
 Task 1 - Create a Microsoft Sentinel workspace<br>
 Step 9: Browse back to Sentinel, click + Create, select the Workspace you created, click Add <br>
+#### Task 2 cannot be completed as you do not have permissions to configure the data connector Skip to Task 3
 
 ## Lab 28 – Monitor and manage security posture with Identity Secure Score (15 Minutes)
 
