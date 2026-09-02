@@ -72,7 +72,7 @@ Plan, implement, and manage access reviews - https://learn.microsoft.com/en-us/t
 Plan and implement privileged access - https://learn.microsoft.com/en-us/training/modules/plan-implement-privileged-access/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.plan-implement-identity-governance-strategy<br>
 Monitor and maintain Azure Entra - https://learn.microsoft.com/en-us/training/modules/monitor-maintain-azure-active-directory/<br>
 
-### Labs - Plan and implement an identity governance strategy (~130 Minutes)
+### Labs - Plan and implement an identity governance strategy (~120 Minutes)
 
 Lab 22 – Create and manage a catalog of resources in Azure Entra entitlement management (15 Minutes)<br>
 Lab 23 – Add terms of use and acceptance reporting (20 Minutes)<br>
