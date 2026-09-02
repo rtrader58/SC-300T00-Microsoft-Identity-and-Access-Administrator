@@ -27,7 +27,8 @@ Before continuing close the browser window with the Defender Portal being displa
 Task 1 - Access Microsoft Defender for Cloud Apps and create Conditional Access App Control<br>
 Step 3: If needed expand Cloud Apps in the navigation pane<br>
 Step 4: Expand Policies <br>
-Step 4: Select Policy Management<br>
+Step 4: Select Policy Management - It may take up to 45 minutes for the conditional access policy enable that you created Ex 1 Task 2 before you will be able to create an Access Policy<br>
+
 
 ## Lab 19 – Register an application (~30 Minutes)
 
