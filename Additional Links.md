@@ -12,8 +12,11 @@ Azure Tuesdays with Corey - https://learn.microsoft.com/en-us/shows/tuesdays-wit
 Azure Fridays - https://learn.microsoft.com/en-us/shows/azure-friday/<br>
 Microsoft Learning community Blog - https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog<br>
 Azure Documentation - https://learn.microsoft.com/en-us/azure/?product=popular<br>
+
 ## Course links
+
 ### Module 2: Implement an identity management solution​
+
 Azure Portal – https://portal.azure.com <br>
 Azure AD Admin Portal – https://aad.portal.azure.com <br>
 Note – this portal is still active, but most of its functionality is available in modern portals like the Entra Admin Center and M365 Admin <br>
@@ -30,7 +33,9 @@ Entra Members verses Guest account default permissions - https://learn.microsoft
 Implement and manage external identities - https://docs.microsoft.com/learn/modules/implement-manage-external-identities/ <br>
 Understand and manage the properties of B2B guest users - https://learn.microsoft.com/en-us/entra/external-id/user-properties <br>
 Implement and manage hybrid identity - https://docs.microsoft.com/learn/modules/implement-manage-hybrid-identity/	 <br>
+
 ### Module 3:  Implement an authentication and access management solution
+
 Deployment considerations for Azure AD Multi-Factor Authentication | Microsoft Docs - https://www.microsoft.com/en-us/download/details.aspx?id=57600  <br>
 Monitor Azure AD MFA activity - https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-reporting  <br>
 Planning a cloud-based Azure AD multifactor Authentication deployment - https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted <br>
@@ -86,7 +91,10 @@ Learn about Microsoft Entra Private Access - https://learn.microsoft.com/en-us/e
 Learn about Microsoft Entra Internet Access for all apps - https://learn.microsoft.com/en-us/entra/global-secure-access/concept-internet-access <br>
 Universal Conditional Access through Global Secure Access - https://learn.microsoft.com/en-us/entra/global-secure-access/concept-universal-conditional-access <br>
 Workload identities - https://learn.microsoft.com/en-us/entra/workload-id/workload-identities-overview <br>
+
 ### Module 4:  Implement Access Management for Apps
+
+Microsoft Cloud App Security Booklet PDF - https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Microsoft-Cloud-App-Security-Overview.pdf <br> 
 What is Microsoft Identity Platform - https://learn.microsoft.com/en-us/entra/identity-platform/ <br>
 MDCA ebook - https://go.microsoft.com/fwlink/p/?LinkID=2079728&clcid=0x409&culture=en-us&country=US   <br>
 Microsoft Defender for Cloud Apps - https://docs.microsoft.com/en-us/cloud-app-security/what-is-cloud-app-security  <br>
