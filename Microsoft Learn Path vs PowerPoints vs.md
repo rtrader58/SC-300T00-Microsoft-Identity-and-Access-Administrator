@@ -2,13 +2,13 @@
 
 # SC-300: Implement an identity management solution - https://learn.microsoft.com/training/courses/sc-300t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=506615#study-guide
 
-## Learning Path 1 / PowerPoint Module 1: Explore identity and Azure AD (Optional Module) - https://learn.microsoft.com/en-us/training/modules/explore-identity-azure-active-directory/
+## Module: Explore identity and Azure AD (Optional Module - Not covered in class) - https://learn.microsoft.com/en-us/training/modules/explore-identity-azure-active-directory/
 
 Explore identity and Azure AD <br>
 
-## Learning Path 2: Implement an identity management solution - https://learn.microsoft.com/en-us/training/paths/implement-identity-management-solution/
+## Learning Path 1: Implement an identity management solution - https://learn.microsoft.com/en-us/training/paths/implement-identity-management-solution/
 
-### PowerPoint Module 2
+### PowerPoint Module 1
 
 Implement initial configuration of Azure Entra ID - https://learn.microsoft.com/en-us/training/modules/implement-initial-configuration-of-azure-active-directory/<br>
 Create, configure, and manage identities - https://learn.microsoft.com/en-us/training/modules/create-configure-manage-identities/<br>
@@ -25,9 +25,9 @@ Lab 05 – Add guest users to the directory (5 Minutes)<br>
 Lab 06 – Add a federated identity provider (25 Minutes)<br>
 Lab 07 – Add Hybrid Identity with Azure AD Connect (75 Minutes) - Optional Lab.<br>
 
-## Learning Path 3: Implement an Authentication and Access Management solution - https://learn.microsoft.com/en-us/training/paths/implement-authentication-access-management-solution/
+## Learning Path 2: Implement an Authentication and Access Management solution - https://learn.microsoft.com/en-us/training/paths/implement-authentication-access-management-solution/
 
-### PowerPoint Module 3
+### PowerPoint Module 2
 
 Secure Azure Entra user with Multifactor Authentication - https://learn.microsoft.com/en-us/training/modules/secure-aad-users-with-mfa/<br>
 Manage user authentication - https://learn.microsoft.com/en-us/training/modules/manage-user-authentication/<br>
@@ -47,9 +47,9 @@ Lab 14 – Enable sign in and user risk policies (10 Minutes)<br>
 Lab 15 – Configure an Azure Entra multi-factor authentication registration policy (10 Minutes)<br>
 Lab 16 – Using Azure Key Vault for Managed Identities (35 Minutes)<br>
 
-## Learning Path 4: Implement Access Management for Apps - https://learn.microsoft.com/en-us/training/paths/implement-access-management-for-apps/
+## Learning Path 3: Implement Access Management for Apps - https://learn.microsoft.com/en-us/training/paths/implement-access-management-for-apps/
 
-### PowerPoint Module 4
+### PowerPoint Module 3
 
 Plan and design the integration of enterprise apps for SSO - https://learn.microsoft.com/en-us/training/modules/plan-design-integration-of-enterprise-apps-for-sso/<br>
 Implement and monitor the integration of enterprise apps for SSO - https://learn.microsoft.com/en-us/training/modules/implement-monitor-integration-of-enterprise-apps-for-sso/<br>
@@ -63,9 +63,9 @@ Lab 19 – Register an application (30 Minutes)<br>
 Lab 20 – Implement access management for apps (10 Minutes)<br>
 Lab 21 – Grant tenant-wide admin consent to an application (20 Minutes)<br>
 
-## Learning Path 5: Plan and Implement an Identity Governance - https://learn.microsoft.com/en-us/training/paths/plan-implement-identity-governance-strategy/
+## Learning Path 4: Plan and Implement an Identity Governance - https://learn.microsoft.com/en-us/training/paths/plan-implement-identity-governance-strategy/
 
-### PowerPoint Module 5
+### PowerPoint Module 4
 
 Plan and implement entitlement management - https://learn.microsoft.com/en-us/training/modules/plan-implement-entitlement-management/<br>
 Plan, implement, and manage access reviews - https://learn.microsoft.com/en-us/training/modules/plan-implement-manage-access-review/<br>
