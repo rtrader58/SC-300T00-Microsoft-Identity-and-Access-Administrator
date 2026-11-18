@@ -31,7 +31,8 @@ Task 2:  Bulk addition of users using PowerShell<br>
 
 Task 2: Bulk addition of users using PowerShell<br>
 Step 1: To determine PowerShell version type $PSVersionTable and press “Enter.”
-If upgrade needed - Open the browser type https://aka.ms/PSWindows - Under Installing PowerShell 7 - click on MSI package - Click on PowerShell-7.5.0-win-x64.msi - Click open file - Follow the prompts to install <br>
+If upgrade needed - type the following in the PowerShell window - winget install --id Microsoft.PowerShell --version 7.3.9 --source winget <br>
+Follow the prompts to install <br>
 Close PowerShell <br>
 Search for and Open PowerShell 7 <br>
 
