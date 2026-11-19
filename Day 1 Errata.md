@@ -88,10 +88,11 @@ Step 4:  Use the New user drop down box, select Invite external user<br>
 ### Exercise 2 - Invite guest users in bulk<br>
 
 Task 1 - Bulk user invite<br>
-Use the step as an example, do not actually submit the file<br>
+Step 6: Open the downloaded file and change the example.com domain name to anything.com you would like and then save <br>
 
 Task 2 - Invite guest users with PowerShell<br>
-PowerShell was installed in a previous lab you may be able to start at step 4<br>
+PowerShell was installed in a previous lab you may be able to start at step 4 <br>
+Step 5: Copy into notepad and change the domain name from Fabrikam.com to anything.com <br> 
 
 ## Lab 06 – Add a federated identity provider (25 Minutes)
 
